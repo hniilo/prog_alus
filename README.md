@@ -1,2 +1,2 @@
-# prog_alus
+# Programmeerimise alused
 Programmeerimise aluste kursuse repo
