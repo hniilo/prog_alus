@@ -23,14 +23,22 @@ class SynniaastaKusimiseTestid(unittest.TestCase):
     def test_synniaasta_juhtumid(self):
         for juhtum in self.juhtumid:
             with self.subTest(juhtum=juhtum["nimi"]):
-                sisendid = iter(juhtum["sisendid"])
+                sisendid = juhtum["sisendid"]
+                iter_sisendid = iter(sisendid)
                 teated = []
 
                 tulemus = kysi_synniaasta(
-                    sisend=lambda _kusimus: next(sisendid),
+                    sisend=lambda _kusimus: next(iter_sisendid),
                     valjund=teated.append,
                     praegune_aasta=PRAEGUNE_AASTA,
                 )
+
+                print(f"\nTest: {juhtum['nimi']}")
+                print(f"  Sisendid: {sisendid}")
+                print(f"  Oodatud sünniaasta: {juhtum['oodatud_synniaasta']}")
+                print(f"  Tegelik sünniaasta: {tulemus}")
+                print(f"  Oodatud teated: {juhtum['oodatud_teated']}")
+                print(f"  Tegelikud teated: {teated}")
 
                 self.assertEqual(juhtum["oodatud_synniaasta"], tulemus)
                 self.assertEqual(juhtum["oodatud_teated"], teated)
