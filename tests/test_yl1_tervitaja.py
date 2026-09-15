@@ -1,6 +1,11 @@
 import json
+import sys
 import unittest
 from pathlib import Path
+
+
+PROJEKTI_JUUR = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(PROJEKTI_JUUR))
 
 from w3_praktikum.yl1_tervitaja import kysi_synniaasta
 
