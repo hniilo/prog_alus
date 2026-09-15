@@ -1,6 +1,6 @@
 from datetime import datetime
 
-KATSETE_ARV = 3
+KATSETE_ARV = 3 # globaalne muutuja
 
 
 def kuva_oigused(vanus):
@@ -57,7 +57,7 @@ def kuva_kasutaja_andmed(kasutaja_nimi, kasutaja_synniaasta):
     kuva_oigused(vanus)
 
 
-def pea():
+def main():
     """Käivitab programmi kasutajaliidese."""
     nimi = kysi_nime()
     synniaasta = kysi_synniaasta()
@@ -69,4 +69,4 @@ def pea():
 
 
 if __name__ == "__main__":
-    pea()
+    main()
