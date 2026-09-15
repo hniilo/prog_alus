@@ -1,5 +1,7 @@
 from datetime import datetime
 
+KATSETE_ARV = 3
+
 
 def kuva_oigused(vanus):
     """Kuvab kasutaja vanuse põhjal juba kehtivad vanusepiirid."""
@@ -17,27 +19,54 @@ def kuva_oigused(vanus):
             print(f"{piir}+ : {oigus}")
 
 
-def kysy_synniaasta():
-    """Küsib sünniaastat, kuni kasutaja sisestab sobiva väärtuse."""
-    praegune_aasta = datetime.now().year
+def kysi_synniaasta(sisend=input, valjund=print, praegune_aasta=None):
+    """Küsib kuni kolm korda sobivat sünniaastat ja tagastab selle või None."""
+    if praegune_aasta is None:
+        praegune_aasta = datetime.now().year
 
-    while True:
+    for _ in range(KATSETE_ARV):
         try:
-            synniaasta = int(input("Mis su sünniaasta on? "))
+            synniaasta = int(sisend("Mis su sünniaasta on? "))
         except ValueError:
-            print("Sisesta sünniaasta arvuna.")
+            valjund("Sisesta sünniaasta arvuna.")
             continue
 
         if synniaasta > praegune_aasta:
-            print("Sünniaasta ei saa olla tulevikus.")
+            valjund("Sünniaasta ei saa olla tulevikus.")
             continue
 
         return synniaasta
 
+    valjund(
+        f"Sünniaasta sisestamine ebaõnnestus pärast {KATSETE_ARV} katset. "
+        "Programm lõpetab töö."
+    )
+    return None
 
-nimi = input("Mis su nimi on? ").strip()
-synniaasta = kysy_synniaasta()
-vanus = datetime.now().year - synniaasta
 
-print(f"Tere, {nimi}! Sinu vanusega seotud õigused:")
-kuva_oigused(vanus)
+def kysi_nime():
+    """Küsib kasutaja nime."""
+    return input("Mis su nimi on? ").strip()
+
+
+def kuva_kasutaja_andmed(kasutaja_nimi, kasutaja_synniaasta):
+    """Kuvab tervituse ja vanuse põhjal kehtivad õigused."""
+    vanus = datetime.now().year - kasutaja_synniaasta
+
+    print(f"Tere, {kasutaja_nimi}! Oled {vanus}. aastane vana ja Sinu vanusega seotud õigused:")
+    kuva_oigused(vanus)
+
+
+def pea():
+    """Käivitab programmi kasutajaliidese."""
+    nimi = kysi_nime()
+    synniaasta = kysi_synniaasta()
+
+    if synniaasta is None:
+        return
+
+    kuva_kasutaja_andmed(nimi, synniaasta)
+
+
+if __name__ == "__main__":
+    pea()

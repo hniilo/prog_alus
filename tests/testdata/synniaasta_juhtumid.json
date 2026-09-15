@@ -1,0 +1,31 @@
+[
+  {
+    "nimi": "kehtiv sünniaasta",
+    "sisendid": ["2000"],
+    "oodatud_synniaasta": 2000,
+    "oodatud_teated": []
+  },
+  {
+    "nimi": "tekstiline sisend ja siis kehtiv aasta",
+    "sisendid": ["kaks tuhat", "2000"],
+    "oodatud_synniaasta": 2000,
+    "oodatud_teated": ["Sisesta sünniaasta arvuna."]
+  },
+  {
+    "nimi": "tulevikuaasta ja siis kehtiv aasta",
+    "sisendid": ["2027", "2000"],
+    "oodatud_synniaasta": 2000,
+    "oodatud_teated": ["Sünniaasta ei saa olla tulevikus."]
+  },
+  {
+    "nimi": "kolm vigast sisestust",
+    "sisendid": ["ei ole arv", "2027", "veel kord"],
+    "oodatud_synniaasta": null,
+    "oodatud_teated": [
+      "Sisesta sünniaasta arvuna.",
+      "Sünniaasta ei saa olla tulevikus.",
+      "Sisesta sünniaasta arvuna.",
+      "Sünniaasta sisestamine ebaõnnestus pärast 3 katset. Programm lõpetab töö."
+    ]
+  }
+]
