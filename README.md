@@ -19,7 +19,7 @@ ei toimunud
    1. <int>, <str>, <list>
    2. funktsioon - defineerimine, sisendparameetrid, väärtuse tagastamine
       1. def arvuta(kaatet, hypnoos):
-      2. print(), input(), int()
+      2. print(), input(), int(), type()
 
 # w3
 15.09.2026	loeng ja praktikum	Andmetüübid ja muutujad. Avaldised ja tehete järjekord.  
@@ -29,10 +29,11 @@ Praktikum:
 1. Kordamine:
    1. Pythoni õigekirja ja interpretaatori tööpõhimõtte kordamine
    2. Andmetüüpide (<int>, <str>, <list>) ja objektide kordamine
-3. Uus teadmine:
+2. Uus teadmine:
    1. tingimuslause - "if condition:"
    2. for-tsükkel - "for element in elementide_andmestruktuur:"
    3. Andmetüüp <dict> - võti-väärtus põhine andmestruktuur (key-value pair)
+   4. int(<str>) - objekti tüübi muutmine (object type casting)
 
 ### **kodutöö: tähtaeg w4 praktikum:**
 1. git õppimine tudengi valitud veebikeskkonnas
