@@ -12,12 +12,13 @@ def second_largest_sort(lst):
 
 
 
-# Sellel meetodil on loogika viga- milles see seisneb?
 def second_largest_manual_sort(lst):
-    last_largest = 0
-    largest = 0
+    largest = float('-inf')
+    second_largest = float('-inf')
     for number in lst:
         if number > largest:
-            last_largest = largest
+            second_largest = largest
             largest = number
-    return last_largest
+        elif number > second_largest:
+            second_largest = number
+    return second_largest
