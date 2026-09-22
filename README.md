@@ -87,6 +87,8 @@ Praktikum:
       2. sobilike kellaaegade filtreerimine
          1. tarbmimisharjumustest sobilike kellaaegade filtreerimine
          2. laadimistüübi sõltuvus. Esialgu ainult üks laadimise viis)
+3. https://docs.python.org/3/library/datetime.html#module-datetime
+4. https://docs.python.org/3/library/datetime.html#datetime.date.weekday
 
 
 # w6
