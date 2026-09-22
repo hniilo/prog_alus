@@ -76,7 +76,18 @@ prog_alus\w4_praktikum\list_sort\list_find_largest_number.py
 
 # w5
 29.09.2026	loeng ja praktikum	Tsüklid ja iteratsioon  
-29.09.2026	loeng ja praktikum	Tsüklite koostamine  
+29.09.2026	loeng ja praktikum	Tsüklite koostamine
+
+Praktikum:
+1. Hinnajärgi optimeeritud elektriauto laadimisaegade leidmine  
+   1. seadmestiku defineerimine (auto, võrguühendus, tarbimisharjumused)
+   2. hinnapäring
+   3. andmetöötlus
+      1. päringu tulemuse hinna järgi sorteerimine
+      2. sobilike kellaaegade filtreerimine
+         1. tarbmimisharjumustest sobilike kellaaegade filtreerimine
+         2. laadimistüübi sõltuvus. Esialgu ainult üks laadimise viis)
+
 
 # w6
 06.10.2026	loeng ja praktikum	Sõned. Indekseerimine, viilutamine, märgikodeering  
