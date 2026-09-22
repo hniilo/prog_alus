@@ -1,6 +1,5 @@
 '''
 Create a function that takes a list of numbers and returns the second largest number.
-kustuta kasutas teen faili muudatuse
 '''
 
 def second_largest_sorted(lst):
