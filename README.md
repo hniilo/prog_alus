@@ -47,7 +47,14 @@ Praktikum:
 
 # w4
 22.09.2026	loeng ja praktikum	Loogilised tehted. Mitmeosaline ja mitmeharuline tingimuslause  
-22.09.2026	loeng ja praktikum  Tingimuslaused ja piirjuhtude kontroll  
+22.09.2026	loeng ja praktikum  Tingimuslaused ja piirjuhtude kontroll
+
+Kasulik:
+https://www.jetbrains.com/academy/student-pack/
+
+Praktikum:
+
+Kodutöö:
 
 # w5
 29.09.2026	loeng ja praktikum	Tsüklid ja iteratsioon  
