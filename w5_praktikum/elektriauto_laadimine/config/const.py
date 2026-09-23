@@ -1,0 +1,2 @@
+TOOPAEVAD = range(5)
+NADALAVAHETUS = range(5, 7)

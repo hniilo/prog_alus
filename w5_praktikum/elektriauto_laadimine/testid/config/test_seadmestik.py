@@ -3,9 +3,8 @@ from datetime import time
 import pytest
 
 import config.tarbimisharjumused as th
+from config.const import TOOPAEVAD, NADALAVAHETUS
 
-TOOPAEVAD = range(5)
-NADALAVAHETUS = range(5, 7)
 
 TESTANDMED_TOOPAEVAD = [
     (time(22, 59), False),
@@ -25,6 +24,8 @@ def test_toopaevad_on_lubatud_kellaaeg(paev, kellaaeg, oodatud_tulemus):
     assert th.on_lubatud_kellaaeg(kellaaeg, paeva_vahemik) is oodatud_tulemus
 
 
+
+
 TESTANDMED_NADALAVAHETUS = [
     (time(0, 0), True),
     (time(12, 0), True),
@@ -35,7 +36,6 @@ TESTANDMED_NADALAVAHETUS = [
     (time(12, 0), False),
     (time(14, 0), False),
 ]
-
 
 @pytest.mark.parametrize("paev", NADALAVAHETUS)
 @pytest.mark.parametrize("kellaaeg, oodatud_tulemus", TESTANDMED_NADALAVAHETUS)
