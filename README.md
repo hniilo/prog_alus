@@ -79,14 +79,11 @@ prog_alus\w4_praktikum\list_sort\list_find_largest_number.py
 29.09.2026	loeng ja praktikum	Tsüklite koostamine
 
 Praktikum:
-1. Hinnajärgi optimeeritud elektriauto laadimisaegade leidmine  
-   1. seadmestiku defineerimine (auto, võrguühendus, tarbimisharjumused)
-   2. hinnapäring
-   3. andmetöötlus
-      1. päringu tulemuse hinna järgi sorteerimine
-      2. sobilike kellaaegade filtreerimine
-         1. tarbmimisharjumustest sobilike kellaaegade filtreerimine
-         2. laadimistüübi sõltuvus. Esialgu ainult üks laadimise viis)
+1. **Ülesanne**:
+   1. Tahan teha skripti, mille järgi tean soodsaid kellaaegasid elektriauto laadimiseks.
+   2. Kas peaks võtma arvesse tarbimisharjumisi ja seadmestikku? (laadimistüüp, peakaitsme võimsus jne)
+2. https://docs.python.org/3/library/datetime.html#module-datetime
+3. https://docs.python.org/3/library/datetime.html#datetime.date.weekday
 
 
 # w6
