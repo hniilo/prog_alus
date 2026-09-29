@@ -15,10 +15,10 @@ y = int(input("sisesta teine arv: "))
 tehe = input("sisesta tehte tüüp: ")
 
 operaatorid = {
-    "+" : summa(x, y),
-    "-" : lahutamine(x, y),
-    "/" : jagamine(x, y),
-    "*" : korrutamine(x, y),
+    "+" : summa,
+    "-" : lahutamine,
+    "/" : jagamine,
+    "*" : korrutamine,
     }
 
-print(operaatorid[tehe])
+print(operaatorid[tehe](x, y))
