@@ -1,1 +1,1 @@
-Tee kalkulaator (+, -, *, / )
+Tee kalkulaator (+, -, *, /, // )
