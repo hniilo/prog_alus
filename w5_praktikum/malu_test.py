@@ -1,30 +1,24 @@
-x = int(input("sisesta esimest arvu"))
-y = int(input("sisesta teist arvu"))
-tehe = input("sisesta tehtetüüb")
+def summa(a, b):
+    return a + b
 
-print(x, tehe, y)
+def lahutamine(a, b):
+    return a - b
 
-if tehe == "+":
-    print(x + y)
-if tehe == "-":
-    print(x - y)
-if tehe == "*":
-    print(x * y)
-if tehe == "/":
-    print(x / y)
-else:
-    print("invalid tehe")
+def korrutamine(a, b):
+    return a * b
 
-def
+def jagamine(a, b):
+    return a / b
 
-operations = {
-    '+': lambda a, b: a + b,
-    '-': lambda a, b: a - b,
-    '*': lambda a, b: a * b,
-    '/': lambda a, b: a / b
-}
+x = int(input("sisesta esimene arv: "))
+y = int(input("sisesta teine arv: "))
+tehe = input("sisesta tehte tüüp: ")
 
+operaatorid = {
+    "+" : summa(x, y),
+    "-" : lahutamine(x, y),
+    "/" : jagamine(x, y),
+    "*" : korrutamine(x, y),
+    }
 
-for operator in ["+", "-", "*", "/"]:
-    if tehe == operator:
-        print()
+print(operaatorid[tehe])
