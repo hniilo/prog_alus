@@ -1,7 +1,7 @@
 # Python: enamkasutatavad funktsioonid ja meetodid
 
 > **Spikker** · MI.2030 · Python 3.12+
-> Näited on kontrollitud Python 3.12-ga. Kommentaar `# →` näitab tulemust.
+> Näited on kontrollitud Python 3.14-ga. Kommentaar `# →` näitab tulemust.
 > Andmetüüpide omadused ja tüübipõhised meetodid detailselt: vt `python-andmetyybid-spikker.md`.
 
 | Tähis | Tähendus |
@@ -520,7 +520,7 @@ Path.home()                           # kasutaja kodukaust
 | `random.choice(jada)` | üks juhuslik element |
 | `random.sample(jada, k)` | `k` erinevat elementi uues järjendis |
 | `random.shuffle(a)` | segab kohapeal, tagastab `None` |
-| `random.seed(42)` | korratav „juhuslikkus" — kasulik testimisel |
+| `random.seed(42)` | korratav „juhuslikkus“ — kasulik testimisel |
 
 ### `statistics`
 
@@ -600,7 +600,7 @@ with open("hinnad.csv", encoding="utf-8-sig", newline="") as f:
 
 ⚠️ CSV-st loetud väärtused on **alati sõned** — teisenda ise.
 ⚠️ Eesti keelega Excel salvestab CSV sageli `;`-eraldajaga ja komaga kümnendkohas.
-⚠️ Exceli „CSV UTF-8" lisab faili algusesse BOM-märgi → kasuta `encoding="utf-8-sig"`, muidu esimese veeru nimi on `'\ufefftoode'`.
+⚠️ Exceli „CSV UTF-8“ lisab faili algusesse BOM-märgi → kasuta `encoding="utf-8-sig"`, muidu esimese veeru nimi on `'\ufefftoode'`.
 
 ### `collections`
 

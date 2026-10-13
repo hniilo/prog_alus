@@ -8,7 +8,7 @@ from paring import paeva_hinnad
 from fail import salvesta, loe
 from tootlus import sordi_hinna_jargi, odavaimad_vahemikus
 
-FAIL = "hinnad.txt"
+FAILI_NIMI = "hinnad"
 TAISPAEV = 96  # 24 h x 4 intervalli
 
 
@@ -27,8 +27,8 @@ def main() -> None:
         paev = date.today()
         hinnad = paeva_hinnad(paev)
 
-    salvesta(hinnad, FAIL)
-    hinnad = loe(FAIL)
+    salvesta(hinnad, FAILI_NIMI)
+    hinnad = loe(FAILI_NIMI)
 
     naita(f"{paev} kõik hinnad ({len(hinnad)} intervalli):", hinnad)
     naita("10 odavaimat intervalli:", sordi_hinna_jargi(hinnad), 10)

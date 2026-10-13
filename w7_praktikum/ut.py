@@ -10,10 +10,9 @@ def ristsumma(arv:int)-> int:
         rs = rs + int(el)
     return rs
 
-i = 2
+i = 1
 while(True):
+    i += 1
     if i**2 == ristsumma(i)**3:
         print(i)
         break
-    i += 1
-

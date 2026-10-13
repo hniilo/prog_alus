@@ -52,8 +52,8 @@ def aeg(sekundid):
     return
 
 
-#print(aeg(3725))  # expected output: 1:02:05
-#print(aeg(59))  # expected output: 0:00:59
+print(aeg(3725, "1:02:05"))  # expected output: 1:02:05
+print(aeg(59, "0:00:59"))  # expected output: 0:00:59
 
 
 # A6. Tüübiteisendus

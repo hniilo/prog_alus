@@ -8,12 +8,22 @@
 
 # 1. Pesastatud listide ühendamine for-tsükliga
 def zip_lists_with_for_loop(par):
-    # Kirjuta siia implementatsioon
-    return
+    ret = []
+    for el_v in nested_lists:
+        for el_s in el_v:
+            ret.append(el_s)
+    return ret
+
+def zip_lists_with_for_loop_extend(par):
+    ret = []
+    for el_v in nested_lists:
+       ret.extend(el_v)
+    return ret
 
 
 nested_lists = [[1, 2, 3], [4, 5, 6]]
 print(zip_lists_with_for_loop(nested_lists))  # expected output: [1, 2, 3, 4, 5, 6]
+print(zip_lists_with_for_loop_extend(nested_lists))  # expected output: [1, 2, 3, 4, 5, 6]
 
 
 # 2. Paarisarvud listist
@@ -23,7 +33,7 @@ def paarisarvud(arvud):
     return
 
 
-print(paarisarvud([9, 8, 7, 1, 2, 3, 4, 5, 6]))  # expected output: [8, 2, 4, 6]
+# print(paarisarvud([9, 8, 7, 1, 2, 3, 4, 5, 6]))  # expected output: [8, 2, 4, 6]
 
 
 # 3. Suurim arv listist (ilma max() funktsioonita)
@@ -33,7 +43,7 @@ def suurim(arvud):
     return
 
 
-print(suurim([3, 17, -5, 9, 12]))  # expected output: 17
+# print(suurim([3, 17, -5, 9, 12]))  # expected output: 17
 
 
 # 4. Täishäälikute loendamine sõnes
@@ -43,8 +53,8 @@ def taishaalikud(sone):
     return
 
 
-print(taishaalikud("Kalevipoeg"))  # expected output: 5
-print(taishaalikud("Õnnelik Üliõpilane"))  # expected output: 9
+# print(taishaalikud("Kalevipoeg"))  # expected output: 5
+# print(taishaalikud("Õnnelik Üliõpilane"))  # expected output: 9
 
 
 # 5. Sõnade esinemiste loendamine sõnastikku
@@ -54,5 +64,5 @@ def loenda_sonad(sonad):
     return
 
 
-print(loenda_sonad(["õun", "pirn", "õun", "banaan", "õun", "pirn"]))
+# print(loenda_sonad(["õun", "pirn", "õun", "banaan", "õun", "pirn"]))
 # expected output: {'õun': 3, 'pirn': 2, 'banaan': 1}

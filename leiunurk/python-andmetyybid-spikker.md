@@ -1,7 +1,7 @@
 # Python: andmetüübid ja andmestruktuurid
 
 > **Spikker** · MI.2030 · Python 3.12+
-> Näited on kontrollitud Python 3.12-ga. Kommentaar `# →` näitab tulemust.
+> Näited on kontrollitud Python 3.14-ga. Kommentaar `# →` näitab tulemust.
 > Funktsioonid, f-sõnede vormindus ja standardteek: vt `python-funktsioonid-meetodid-spikker.md`.
 
 | Tähis | Tähendus |
@@ -74,7 +74,7 @@ a ──┐
 b ──┘
 ```
 
-Muutumatu objektiga tundub sama olukord teistsugune, sest „muutmine" loob tegelikult uue objekti:
+Muutumatu objektiga tundub sama olukord teistsugune, sest „muutmine“ loob tegelikult uue objekti:
 
 ```python
 x = 5
@@ -90,7 +90,7 @@ print(x, y)      # → 5 6
 | `==` | Kas väärtused on võrdsed? | Peaaegu alati |
 | `is` | Kas see on täpselt sama objekt? | `None` kontrolliks (**K**) |
 
-⚠️ `is` võib arvude või sõnede puhul „kogemata töötada", sest CPython hoiab väikeseid arve vahemälus. See on implementatsiooni detail, mitte reegel.
+⚠️ `is` võib arvude või sõnede puhul „kogemata töötada“, sest CPython hoiab väikeseid arve vahemälus. See on implementatsiooni detail, mitte reegel.
 
 ---
 
@@ -185,7 +185,7 @@ Decimal(0.1)   # → Decimal('0.100000000000000005551115123125782702118158340454
 if x != 0 and 10 / x > 1:     # kui x == 0, jagamist ei toimu
     ...
 
-nimi = sisestus or "anonüümne"   # or tagastab esimese tõese operandi
+nimi = sisestus or "anonüümne"   # or tagastab esimese tõese operandi, muidu viimase
 ```
 
 ### 4.2 Tõesus
@@ -203,7 +203,7 @@ Kõik muu on tõene.
 
 ### 4.3 `None`
 
-- Tähendab „väärtus puudub".
+- Tähendab „väärtus puudub“.
 - Funktsioon ilma `return`-ita tagastab `None`.
 - Kontroll: `x is None` (**K**, PEP 8).
 
@@ -216,7 +216,8 @@ Kõik muu on tõene.
 ### 5.1 Loomine
 
 ```python
-'tere'  "tere"                  # samaväärsed (R)
+'tere'                          # ühe- ja kahekordsed jutumärgid on samaväärsed (R)
+"tere"
 """mitu
 rida"""
 "rida1\nrida2\ttabulaator"      # \n reavahetus, \t tabulaator
@@ -387,7 +388,7 @@ b.extend([3, 4])    # → [1, 2, 3, 4]     kaks elementi juurde
 |---|---|
 | `b = a` | **alias** — sama objekt, kaks nime |
 | `b = a.copy()` · `b = a[:]` · `b = list(a)` | **pinnapealne koopia** — uus järjend, sisemised objektid jagatud |
-| `b = copy.deepcopy(a)` | **sügav koopia** — kõik tasemed kopeeritakse |
+| `b = copy.deepcopy(a)` | **sügav koopia** — kõik tasemed kopeeritakse (`import copy`) |
 
 ⚠️ **Pesastatud järjend korrutamisega:**
 
@@ -588,8 +589,9 @@ kategooriad[0]                            # TypeError — hulgal pole indekseid
 
 ```python
 ostud = ["leib", "piim", "leib"]
+soodustooted = {"piim", "juust"}
 
-"piim" in soodustooted          # kiire liikmesuse kontroll
+"piim" in soodustooted          # kiire liikmesuse kontroll → True
 len(set(ostud))                 # erinevate toodete arv → 2
 list(set(ostud))                # ⚠️ duplikaadid kaovad, aga järjekord võib muutuda
 list(dict.fromkeys(ostud))      # duplikaadid kaovad, järjekord säilib → ['leib', 'piim']
@@ -653,7 +655,7 @@ hind = float(tekst.replace(",", "."))    # lubab ka eesti komakirja
 | Järjestatud kogum, mis muutub | `list` | `append`, `pop`, `sort` |
 | Fikseeritud väljadega kirje | `tuple` | muutumatu, lahtipakitav |
 | Otsing nime või koodi järgi | `dict` | kiire otsing võtme järgi |
-| „Kas on olemas?" / unikaalsed väärtused | `set` | kiire `in`, duplikaadid kaovad |
+| „Kas on olemas?“ / unikaalsed väärtused | `set` | kiire `in`, duplikaadid kaovad |
 | Unikaalsete väärtuste kogum võtmena | `frozenset` | räsitav |
 | Arvujada tsükli jaoks | `range` | ei võta mälu |
 | Rahasummad | `Decimal` | täpne kümnendaritmeetika |
@@ -677,10 +679,10 @@ hinnakiri = {
 # Ostukorv: järjestatud read → järjend; iga rida on fikseeritud kirje → ennik
 ostukorv = [("leib", 2), ("piim", 3), ("juust", 1)]
 
-# Soodustooted: vaja ainult „kas on?" kontrolli → hulk
+# Soodustooted: vaja ainult „kas on?“ kontrolli → hulk
 soodustooted = {"piim", "juust"}
 
-SOODUSTUS = Decimal("0.10")    # K: konstant suurtähtedega, mitte „maagiline arv"
+SOODUSTUS = Decimal("0.10")    # K: konstant suurtähtedega, mitte „maagiline arv“
 
 summa = Decimal("0")
 for nimi, kogus in ostukorv:
