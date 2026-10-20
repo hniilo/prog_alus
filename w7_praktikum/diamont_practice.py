@@ -1,37 +1,38 @@
-# tee 6 realine pool-puu
-def kool(tärn):
-    for i in range(1,7):
-        print(tärn*i)
-    
-#print(kool('t'))
+def half_pyramid_hardcoded_lines_right(symbol):
+    """Write right side of pyramid as ASCII graphics"""
+    print("half_pyramid_hardcoded_lines_right:")
+    for i in range(1, 7):
+        print(symbol * i)
 
 
+# half_pyramid_hardcoded_lines_right('t')
 
-
-def kool2(height):
+def half_pyramid_dynamic_lines_left(height):
+    """Write left side of pyramid as ASCII graphics"""
+    print("half_pyramid_dynamic_lines_left:")
     for i in range(height):
         spaces = " " * (height - i)
         stars = "*" * (i + 1)
         print(spaces, stars)
-#kool2(7)
 
 
-def kool3(height, sumbol):
+# half_pyramid_dynamic_lines_left(7)
+
+
+def pyramid_dynamic_lines_symbols(height, symbol):
+    print("pyramid_dynamic_lines_symbols:")
     for i in range(height):
         spaces = " " * (height - i)
-        print(spaces, sumbol * (i * 2 - 1))
-#kool3(3, "#")
-        
-        
-        
-def kool4(korgus, sumbol):
-    for i in range(korgus):
-        print((korgus - i)* " " + (i * 2 -1) * sumbol)
-kool4(5,"+")
+        print(spaces, symbol * (i * 2 + 1))
 
 
-def kool5(korgus, sumbol):
-    for i in range(korgus):
-        print((korgus - i)* " " + (i * 2 + 1) * sumbol)
-kool5(5,"+")
-    
+# pyramid_dynamic_lines_symbols(7, "#")
+
+
+def pyramid_dynamic_lines_symbols(line_count, symbol):
+    print("pyramid_dynamic_lines_symbols, without additional variable declaration:")
+    for i in range(line_count):
+        print((line_count - i) * " " + (i * 2 + 1) * symbol)
+
+
+pyramid_dynamic_lines_symbols(5, "+")
