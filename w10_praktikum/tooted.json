@@ -1,0 +1,7002 @@
+[
+  {
+    "inventari_nr": "INV-101894",
+    "nimetus": "Veebikaamera Lite",
+    "hind_km_ta": 60.19,
+    "laoseis": 240,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101373",
+    "nimetus": "Kohupiim 500 g",
+    "hind_km_ta": 5.49,
+    "laoseis": 170,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101975",
+    "nimetus": "Seep 8 tk",
+    "hind_km_ta": 1.29,
+    "laoseis": 299,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101182",
+    "nimetus": "Ümbrikud sinine",
+    "hind_km_ta": 4.79,
+    "laoseis": 313,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103021",
+    "nimetus": "Kummikud naiste",
+    "hind_km_ta": 133.19,
+    "laoseis": 83,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102774",
+    "nimetus": "Kruvikeerajate komplekt 3 m",
+    "hind_km_ta": 4.19,
+    "laoseis": 41,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100989",
+    "nimetus": "Lasteajakiri mai",
+    "hind_km_ta": 8.95,
+    "laoseis": 153,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100832",
+    "nimetus": "Ketšup 0,5 l",
+    "hind_km_ta": 6.49,
+    "laoseis": 311,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103597",
+    "nimetus": "Tatar light",
+    "hind_km_ta": 1.99,
+    "laoseis": 356,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103383",
+    "nimetus": "Deodorant tundlikule nahale",
+    "hind_km_ta": 9.29,
+    "laoseis": 151,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103258",
+    "nimetus": "Röster 2025",
+    "hind_km_ta": 147.79,
+    "laoseis": 230,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103277",
+    "nimetus": "Vesilood professional",
+    "hind_km_ta": 16.95,
+    "laoseis": 80,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102735",
+    "nimetus": "Python algajatele II osa",
+    "hind_km_ta": 15.19,
+    "laoseis": 333,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103209",
+    "nimetus": "Talvejope meriinovill",
+    "hind_km_ta": 28.99,
+    "laoseis": 378,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102370",
+    "nimetus": "Pesuloputusvahend sidruni",
+    "hind_km_ta": 15.79,
+    "laoseis": 19,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101071",
+    "nimetus": "Juhtmevaba hiir hõbe",
+    "hind_km_ta": 105.49,
+    "laoseis": 286,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103156",
+    "nimetus": "Paberipakk A4 10 tk",
+    "hind_km_ta": 11.29,
+    "laoseis": 141,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100477",
+    "nimetus": "Viinerid 0,5 l",
+    "hind_km_ta": 8.29,
+    "laoseis": 442,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101051",
+    "nimetus": "Kustukumm 10 tk",
+    "hind_km_ta": 0.19,
+    "laoseis": 71,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103524",
+    "nimetus": "Seinavärv 3 m",
+    "hind_km_ta": 98.49,
+    "laoseis": 74,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103796",
+    "nimetus": "Saumikser Max",
+    "hind_km_ta": 499.49,
+    "laoseis": 90,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102121",
+    "nimetus": "Klaasipuhastusvahend 4 tk",
+    "hind_km_ta": 5.19,
+    "laoseis": 381,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101737",
+    "nimetus": "Kohv 1 kg",
+    "hind_km_ta": 3.95,
+    "laoseis": 379,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102402",
+    "nimetus": "Pesuloputusvahend 8 tk",
+    "hind_km_ta": 9.49,
+    "laoseis": 281,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101969",
+    "nimetus": "Hambapasta tundlikule nahale",
+    "hind_km_ta": 19.99,
+    "laoseis": 403,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102408",
+    "nimetus": "T-särk L",
+    "hind_km_ta": 18.49,
+    "laoseis": 299,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100418",
+    "nimetus": "Kummikud laste",
+    "hind_km_ta": 4.29,
+    "laoseis": 69,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101812",
+    "nimetus": "Vitamiin C täiskasvanutele",
+    "hind_km_ta": 11.79,
+    "laoseis": 78,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103766",
+    "nimetus": "Kleit naiste",
+    "hind_km_ta": 27.99,
+    "laoseis": 227,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102427",
+    "nimetus": "Majapidamispaber lõhnatu",
+    "hind_km_ta": 4.29,
+    "laoseis": 362,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101648",
+    "nimetus": "Šampoon lõhnatu",
+    "hind_km_ta": 5.19,
+    "laoseis": 390,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102317",
+    "nimetus": "Piim 200 g",
+    "hind_km_ta": 1.49,
+    "laoseis": 333,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101907",
+    "nimetus": "Kaerahelbed 1 l",
+    "hind_km_ta": 6.49,
+    "laoseis": 211,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103138",
+    "nimetus": "Villased sokid M",
+    "hind_km_ta": 36.19,
+    "laoseis": 498,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103267",
+    "nimetus": "Lumelabidas professional",
+    "hind_km_ta": 177.79,
+    "laoseis": 112,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102386",
+    "nimetus": "Nõudepesuvahend 4 tk",
+    "hind_km_ta": 8.95,
+    "laoseis": 474,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101394",
+    "nimetus": "Pusa puuvillane",
+    "hind_km_ta": 4.19,
+    "laoseis": 126,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103434",
+    "nimetus": "Saumikser valge",
+    "hind_km_ta": 431.19,
+    "laoseis": 103,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102434",
+    "nimetus": "Kleit L",
+    "hind_km_ta": 21.49,
+    "laoseis": 411,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102056",
+    "nimetus": "Nädalaleht erinumber",
+    "hind_km_ta": 1.95,
+    "laoseis": 322,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102822",
+    "nimetus": "Tualettpaber lõhnatu",
+    "hind_km_ta": 1.29,
+    "laoseis": 315,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100923",
+    "nimetus": "Kommid 500 g",
+    "hind_km_ta": 2.19,
+    "laoseis": 370,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100571",
+    "nimetus": "Klaasipuhastusvahend 12 tk",
+    "hind_km_ta": 11.49,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102969",
+    "nimetus": "Kraadiklaas 10 tk",
+    "hind_km_ta": 1.49,
+    "laoseis": 45,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103594",
+    "nimetus": "USB-mälupulk Max",
+    "hind_km_ta": 314.49,
+    "laoseis": 466,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103613",
+    "nimetus": "Laadija 2025",
+    "hind_km_ta": 73.29,
+    "laoseis": 227,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101418",
+    "nimetus": "Kali laktoosivaba",
+    "hind_km_ta": 7.99,
+    "laoseis": 403,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100355",
+    "nimetus": "Vererõhumõõtja lastele",
+    "hind_km_ta": 15.29,
+    "laoseis": 156,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103202",
+    "nimetus": "Pastakas punane",
+    "hind_km_ta": 3.79,
+    "laoseis": 275,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103718",
+    "nimetus": "Kleepmärkmed A4",
+    "hind_km_ta": 3.99,
+    "laoseis": 153,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103047",
+    "nimetus": "Ibuprofeen 30 tk",
+    "hind_km_ta": 1.19,
+    "laoseis": 127,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103402",
+    "nimetus": "Keefir light",
+    "hind_km_ta": 7.19,
+    "laoseis": 77,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102189",
+    "nimetus": "Klaviatuur Lite",
+    "hind_km_ta": 216.99,
+    "laoseis": 460,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102216",
+    "nimetus": "Eesti-inglise sõnaraamat illustreeritud",
+    "hind_km_ta": 2.49,
+    "laoseis": 169,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102054",
+    "nimetus": "Pildiraamat kingitusväljaanne",
+    "hind_km_ta": 31.95,
+    "laoseis": 286,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101915",
+    "nimetus": "Akutrell hobi",
+    "hind_km_ta": 173.95,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102920",
+    "nimetus": "Aiandusajakiri jaanuar",
+    "hind_km_ta": 2.19,
+    "laoseis": 59,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103457",
+    "nimetus": "Dušigeel suur",
+    "hind_km_ta": 14.95,
+    "laoseis": 236,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100753",
+    "nimetus": "Kohupiim 1 kg",
+    "hind_km_ta": 5.79,
+    "laoseis": 93,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102250",
+    "nimetus": "Pesupulber 8 tk",
+    "hind_km_ta": 1.49,
+    "laoseis": 300,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103792",
+    "nimetus": "Keefir peremaht",
+    "hind_km_ta": 5.19,
+    "laoseis": 472,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103817",
+    "nimetus": "Kindad meeste",
+    "hind_km_ta": 103.95,
+    "laoseis": 495,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101211",
+    "nimetus": "Kartulikrõpsud 400 g",
+    "hind_km_ta": 1.79,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102091",
+    "nimetus": "Saumikser Pro",
+    "hind_km_ta": 21.99,
+    "laoseis": 269,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103853",
+    "nimetus": "Sidemerull 20 tk",
+    "hind_km_ta": 23.95,
+    "laoseis": 389,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101504",
+    "nimetus": "Python algajatele uus trükk",
+    "hind_km_ta": 3.19,
+    "laoseis": 477,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103482",
+    "nimetus": "Teadusajakiri mai",
+    "hind_km_ta": 5.19,
+    "laoseis": 187,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103132",
+    "nimetus": "Joonlaud must",
+    "hind_km_ta": 8.29,
+    "laoseis": 383,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101156",
+    "nimetus": "Hambapasta 12 tk",
+    "hind_km_ta": 1.99,
+    "laoseis": 44,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103429",
+    "nimetus": "Paberipakk A4 kontoripakk",
+    "hind_km_ta": 0.99,
+    "laoseis": 362,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103196",
+    "nimetus": "Talvejope XL",
+    "hind_km_ta": 43.95,
+    "laoseis": 422,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102462",
+    "nimetus": "Klammerdaja kontoripakk",
+    "hind_km_ta": 15.99,
+    "laoseis": 253,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100772",
+    "nimetus": "Kleepmärkmed must",
+    "hind_km_ta": 24.19,
+    "laoseis": 173,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100583",
+    "nimetus": "Lasteraamat II osa",
+    "hind_km_ta": 3.79,
+    "laoseis": 460,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103140",
+    "nimetus": "Rukkileib peremaht",
+    "hind_km_ta": 2.19,
+    "laoseis": 352,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103415",
+    "nimetus": "Pusa unisex",
+    "hind_km_ta": 18.95,
+    "laoseis": 338,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101756",
+    "nimetus": "Triikraud kompaktne",
+    "hind_km_ta": 65.79,
+    "laoseis": 354,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101056",
+    "nimetus": "Jogurt 0,5 l",
+    "hind_km_ta": 0.99,
+    "laoseis": 60,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100041",
+    "nimetus": "Triikraud must",
+    "hind_km_ta": 706.95,
+    "laoseis": 498,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100784",
+    "nimetus": "Sink 400 g",
+    "hind_km_ta": 9.19,
+    "laoseis": 219,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101036",
+    "nimetus": "Seep 12 tk",
+    "hind_km_ta": 21.19,
+    "laoseis": 41,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103890",
+    "nimetus": "Jahu mahe",
+    "hind_km_ta": 3.99,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100617",
+    "nimetus": "USB-C kaabel juhtmevaba",
+    "hind_km_ta": 651.19,
+    "laoseis": 50,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102619",
+    "nimetus": "Kommid mahe",
+    "hind_km_ta": 2.29,
+    "laoseis": 152,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100100",
+    "nimetus": "Patareid AA 12 tk",
+    "hind_km_ta": 2.49,
+    "laoseis": 4,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101337",
+    "nimetus": "Reisijuht uus trükk",
+    "hind_km_ta": 26.19,
+    "laoseis": 293,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100726",
+    "nimetus": "Päevaleht aprill",
+    "hind_km_ta": 3.29,
+    "laoseis": 335,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103451",
+    "nimetus": "Pikendusjuhe hõbe",
+    "hind_km_ta": 208.29,
+    "laoseis": 173,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103551",
+    "nimetus": "Jogurt 1 l",
+    "hind_km_ta": 1.79,
+    "laoseis": 406,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101866",
+    "nimetus": "Sink laktoosivaba",
+    "hind_km_ta": 0.95,
+    "laoseis": 364,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103731",
+    "nimetus": "Majapidamispaber väike",
+    "hind_km_ta": 3.95,
+    "laoseis": 54,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103441",
+    "nimetus": "Juust klassikaline",
+    "hind_km_ta": 1.99,
+    "laoseis": 363,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100599",
+    "nimetus": "Sai 1 l",
+    "hind_km_ta": 5.19,
+    "laoseis": 491,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103926",
+    "nimetus": "Aiandusajakiri nädalalõpu nr",
+    "hind_km_ta": 6.29,
+    "laoseis": 239,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102581",
+    "nimetus": "Maakonnaleht veebruar",
+    "hind_km_ta": 2.29,
+    "laoseis": 155,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103130",
+    "nimetus": "Akupank kompaktne",
+    "hind_km_ta": 547.19,
+    "laoseis": 40,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101246",
+    "nimetus": "Kruvid 18 V",
+    "hind_km_ta": 172.95,
+    "laoseis": 200,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103419",
+    "nimetus": "Hambapasta sidruni",
+    "hind_km_ta": 19.95,
+    "laoseis": 408,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103444",
+    "nimetus": "Eesti ajalugu pehmekaaneline",
+    "hind_km_ta": 22.19,
+    "laoseis": 310,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103149",
+    "nimetus": "Kleepmärkmed kontoripakk",
+    "hind_km_ta": 32.29,
+    "laoseis": 476,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100896",
+    "nimetus": "Kaerahelbed 200 g",
+    "hind_km_ta": 0.29,
+    "laoseis": 79,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100773",
+    "nimetus": "Ketšup 500 g",
+    "hind_km_ta": 7.49,
+    "laoseis": 395,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101574",
+    "nimetus": "Kaerahelbed suitsune",
+    "hind_km_ta": 0.79,
+    "laoseis": 57,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103158",
+    "nimetus": "Saag suur",
+    "hind_km_ta": 72.19,
+    "laoseis": 114,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101105",
+    "nimetus": "Jogurt klassikaline",
+    "hind_km_ta": 2.29,
+    "laoseis": 215,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103303",
+    "nimetus": "Villased sokid S",
+    "hind_km_ta": 81.49,
+    "laoseis": 305,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100957",
+    "nimetus": "Kanafilee 1 kg",
+    "hind_km_ta": 7.19,
+    "laoseis": 226,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101109",
+    "nimetus": "Plaastrid täiskasvanutele",
+    "hind_km_ta": 12.79,
+    "laoseis": 192,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101146",
+    "nimetus": "Fooliumirull lõhnatu",
+    "hind_km_ta": 8.19,
+    "laoseis": 486,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101585",
+    "nimetus": "Ketšup 1 kg",
+    "hind_km_ta": 7.19,
+    "laoseis": 431,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100199",
+    "nimetus": "Juust 500 g",
+    "hind_km_ta": 0.29,
+    "laoseis": 483,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102393",
+    "nimetus": "Jogurt 400 g",
+    "hind_km_ta": 4.79,
+    "laoseis": 365,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101888",
+    "nimetus": "Või mahe",
+    "hind_km_ta": 7.79,
+    "laoseis": 391,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102597",
+    "nimetus": "Või 200 g",
+    "hind_km_ta": 6.29,
+    "laoseis": 207,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100133",
+    "nimetus": "Lõhefilee laktoosivaba",
+    "hind_km_ta": 0.19,
+    "laoseis": 434,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103803",
+    "nimetus": "Marker punane",
+    "hind_km_ta": 3.29,
+    "laoseis": 326,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100068",
+    "nimetus": "Labidas teleskoopvarrega",
+    "hind_km_ta": 76.49,
+    "laoseis": 412,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102337",
+    "nimetus": "Triikraud Mini",
+    "hind_km_ta": 60.29,
+    "laoseis": 170,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103709",
+    "nimetus": "Kokaraamat pehmekaaneline",
+    "hind_km_ta": 7.49,
+    "laoseis": 285,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102915",
+    "nimetus": "Kummikud M",
+    "hind_km_ta": 10.49,
+    "laoseis": 279,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102676",
+    "nimetus": "Šokolaad mahe",
+    "hind_km_ta": 10.29,
+    "laoseis": 481,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101401",
+    "nimetus": "Laadija Max",
+    "hind_km_ta": 276.29,
+    "laoseis": 294,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102472",
+    "nimetus": "Majapidamispaber 12 tk",
+    "hind_km_ta": 23.29,
+    "laoseis": 90,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103469",
+    "nimetus": "Prügikotid 4 tk",
+    "hind_km_ta": 1.79,
+    "laoseis": 380,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103165",
+    "nimetus": "Kohupiim 400 g",
+    "hind_km_ta": 1.49,
+    "laoseis": 88,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103341",
+    "nimetus": "Riis 0,5 l",
+    "hind_km_ta": 2.95,
+    "laoseis": 236,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101612",
+    "nimetus": "Kanafilee 1 l",
+    "hind_km_ta": 6.99,
+    "laoseis": 86,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100689",
+    "nimetus": "Sokid XL",
+    "hind_km_ta": 112.49,
+    "laoseis": 272,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103012",
+    "nimetus": "Õunamahl peremaht",
+    "hind_km_ta": 0.49,
+    "laoseis": 72,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103771",
+    "nimetus": "Tossud meeste",
+    "hind_km_ta": 41.49,
+    "laoseis": 480,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100241",
+    "nimetus": "Hambahari 4 tk",
+    "hind_km_ta": 1.79,
+    "laoseis": 398,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101599",
+    "nimetus": "Riis 1 l",
+    "hind_km_ta": 9.99,
+    "laoseis": 386,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102262",
+    "nimetus": "Kaustik A5",
+    "hind_km_ta": 37.29,
+    "laoseis": 413,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103296",
+    "nimetus": "Luulekogu kingitusväljaanne",
+    "hind_km_ta": 10.95,
+    "laoseis": 215,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103092",
+    "nimetus": "Luulekogu pehmekaaneline",
+    "hind_km_ta": 3.79,
+    "laoseis": 196,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101019",
+    "nimetus": "Kartulikrõpsud mahe",
+    "hind_km_ta": 1.79,
+    "laoseis": 140,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101309",
+    "nimetus": "Hambapasta 4 tk",
+    "hind_km_ta": 1.49,
+    "laoseis": 45,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100113",
+    "nimetus": "Talvejope M",
+    "hind_km_ta": 4.99,
+    "laoseis": 118,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103687",
+    "nimetus": "Vererõhumõõtja 30 tk",
+    "hind_km_ta": 8.49,
+    "laoseis": 468,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102720",
+    "nimetus": "Hapukurk light",
+    "hind_km_ta": 0.49,
+    "laoseis": 318,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100374",
+    "nimetus": "Märkmik sinine",
+    "hind_km_ta": 11.95,
+    "laoseis": 454,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101110",
+    "nimetus": "Keefir 400 g",
+    "hind_km_ta": 5.29,
+    "laoseis": 63,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103557",
+    "nimetus": "Veebikaamera Max",
+    "hind_km_ta": 342.95,
+    "laoseis": 237,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101639",
+    "nimetus": "Fantaasiaromaan 2. trükk",
+    "hind_km_ta": 19.49,
+    "laoseis": 248,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101748",
+    "nimetus": "Kohvimasin Mini",
+    "hind_km_ta": 163.29,
+    "laoseis": 56,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100624",
+    "nimetus": "Viinerid 1 l",
+    "hind_km_ta": 4.19,
+    "laoseis": 197,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100791",
+    "nimetus": "Pastakas A5",
+    "hind_km_ta": 18.79,
+    "laoseis": 384,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103735",
+    "nimetus": "Tüüblid 5 m",
+    "hind_km_ta": 1.19,
+    "laoseis": 22,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100144",
+    "nimetus": "Töövihik kõvakaaneline",
+    "hind_km_ta": 49.99,
+    "laoseis": 17,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101951",
+    "nimetus": "Sink peremaht",
+    "hind_km_ta": 1.79,
+    "laoseis": 280,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103534",
+    "nimetus": "Joonlaud A5",
+    "hind_km_ta": 0.79,
+    "laoseis": 52,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103392",
+    "nimetus": "Fantaasiaromaan pehmekaaneline",
+    "hind_km_ta": 3.19,
+    "laoseis": 125,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103424",
+    "nimetus": "Lasteraamat pehmekaaneline",
+    "hind_km_ta": 29.79,
+    "laoseis": 303,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101943",
+    "nimetus": "Marker kooli",
+    "hind_km_ta": 6.19,
+    "laoseis": 466,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102072",
+    "nimetus": "Kommid suitsune",
+    "hind_km_ta": 1.29,
+    "laoseis": 240,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102181",
+    "nimetus": "Matemaatika õpik 2. trükk",
+    "hind_km_ta": 23.79,
+    "laoseis": 335,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101147",
+    "nimetus": "Majapidamispaber sidruni",
+    "hind_km_ta": 22.99,
+    "laoseis": 199,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101637",
+    "nimetus": "Kalkulaator sinine",
+    "hind_km_ta": 2.29,
+    "laoseis": 224,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101998",
+    "nimetus": "Mesi suitsune",
+    "hind_km_ta": 0.95,
+    "laoseis": 140,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101140",
+    "nimetus": "Fooliumirull eco",
+    "hind_km_ta": 23.49,
+    "laoseis": 424,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102890",
+    "nimetus": "Matemaatika õpik kõvakaaneline",
+    "hind_km_ta": 27.19,
+    "laoseis": 263,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100364",
+    "nimetus": "Pesupulber lõhnatu",
+    "hind_km_ta": 5.49,
+    "laoseis": 184,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103289",
+    "nimetus": "Riis klassikaline",
+    "hind_km_ta": 0.99,
+    "laoseis": 259,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100523",
+    "nimetus": "Särk naiste",
+    "hind_km_ta": 103.99,
+    "laoseis": 357,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102805",
+    "nimetus": "Tangid suur",
+    "hind_km_ta": 1.79,
+    "laoseis": 167,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100518",
+    "nimetus": "Pikendusjuhe juhtmevaba",
+    "hind_km_ta": 270.49,
+    "laoseis": 290,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100516",
+    "nimetus": "Aiavoolik hobi",
+    "hind_km_ta": 14.95,
+    "laoseis": 238,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100054",
+    "nimetus": "Kali 0,5 l",
+    "hind_km_ta": 0.79,
+    "laoseis": 222,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102600",
+    "nimetus": "Akutrell professional",
+    "hind_km_ta": 23.79,
+    "laoseis": 190,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103430",
+    "nimetus": "Magneesium täiskasvanutele",
+    "hind_km_ta": 5.95,
+    "laoseis": 349,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103236",
+    "nimetus": "Villased sokid puuvillane",
+    "hind_km_ta": 12.95,
+    "laoseis": 153,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101322",
+    "nimetus": "Triikraud valge",
+    "hind_km_ta": 442.95,
+    "laoseis": 251,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103543",
+    "nimetus": "Kalkulaator jooneline",
+    "hind_km_ta": 8.95,
+    "laoseis": 478,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100488",
+    "nimetus": "Sinep laktoosivaba",
+    "hind_km_ta": 2.99,
+    "laoseis": 166,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100796",
+    "nimetus": "Pildiraamat uus trükk",
+    "hind_km_ta": 14.29,
+    "laoseis": 376,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103035",
+    "nimetus": "Suhkur mahe",
+    "hind_km_ta": 7.79,
+    "laoseis": 211,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101438",
+    "nimetus": "Kraadiklaas täiskasvanutele",
+    "hind_km_ta": 1.29,
+    "laoseis": 5,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103929",
+    "nimetus": "Küpsised laktoosivaba",
+    "hind_km_ta": 1.95,
+    "laoseis": 309,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101994",
+    "nimetus": "Labidas 100 tk",
+    "hind_km_ta": 79.95,
+    "laoseis": 85,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100083",
+    "nimetus": "Makaronid suitsune",
+    "hind_km_ta": 0.19,
+    "laoseis": 322,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101764",
+    "nimetus": "Hakkliha 200 g",
+    "hind_km_ta": 4.99,
+    "laoseis": 63,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102278",
+    "nimetus": "Haamer hobi",
+    "hind_km_ta": 6.29,
+    "laoseis": 111,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102607",
+    "nimetus": "Või 0,5 l",
+    "hind_km_ta": 11.95,
+    "laoseis": 139,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101539",
+    "nimetus": "Või klassikaline",
+    "hind_km_ta": 2.99,
+    "laoseis": 194,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100411",
+    "nimetus": "Lumelabidas 50 tk",
+    "hind_km_ta": 135.29,
+    "laoseis": 106,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101260",
+    "nimetus": "Allergiatabletid 60 tk",
+    "hind_km_ta": 16.99,
+    "laoseis": 52,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103884",
+    "nimetus": "Pusa M",
+    "hind_km_ta": 30.29,
+    "laoseis": 31,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101070",
+    "nimetus": "Lumelabidas teleskoopvarrega",
+    "hind_km_ta": 62.95,
+    "laoseis": 315,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103412",
+    "nimetus": "Deodorant suur",
+    "hind_km_ta": 0.49,
+    "laoseis": 115,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100311",
+    "nimetus": "Majapidamispaber tundlikule nahale",
+    "hind_km_ta": 4.29,
+    "laoseis": 261,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101075",
+    "nimetus": "Müts meeste",
+    "hind_km_ta": 116.95,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102363",
+    "nimetus": "Keefir 200 g",
+    "hind_km_ta": 2.29,
+    "laoseis": 328,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101646",
+    "nimetus": "Redel 18 V",
+    "hind_km_ta": 10.79,
+    "laoseis": 382,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103692",
+    "nimetus": "Sidemerull 100 ml",
+    "hind_km_ta": 10.49,
+    "laoseis": 410,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102267",
+    "nimetus": "Tualettpaber sidruni",
+    "hind_km_ta": 2.79,
+    "laoseis": 47,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100032",
+    "nimetus": "Sink 0,5 l",
+    "hind_km_ta": 9.29,
+    "laoseis": 97,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103517",
+    "nimetus": "Sai mahe",
+    "hind_km_ta": 0.29,
+    "laoseis": 227,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100250",
+    "nimetus": "Ümbrikud jooneline",
+    "hind_km_ta": 19.19,
+    "laoseis": 380,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100828",
+    "nimetus": "Autoajakiri mai",
+    "hind_km_ta": 8.19,
+    "laoseis": 78,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102082",
+    "nimetus": "Pesuloputusvahend tundlikule nahale",
+    "hind_km_ta": 3.29,
+    "laoseis": 258,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100999",
+    "nimetus": "Luulekogu I osa",
+    "hind_km_ta": 47.29,
+    "laoseis": 320,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103226",
+    "nimetus": "Eesti-inglise sõnaraamat I osa",
+    "hind_km_ta": 31.29,
+    "laoseis": 479,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100142",
+    "nimetus": "Plaastrid 20 tk",
+    "hind_km_ta": 9.95,
+    "laoseis": 60,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102759",
+    "nimetus": "Värvirull 5 m",
+    "hind_km_ta": 86.99,
+    "laoseis": 218,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103191",
+    "nimetus": "Arvutiajakiri veebruar",
+    "hind_km_ta": 1.95,
+    "laoseis": 98,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102687",
+    "nimetus": "Tossud L",
+    "hind_km_ta": 4.29,
+    "laoseis": 363,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102148",
+    "nimetus": "Saag hobi",
+    "hind_km_ta": 164.99,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102096",
+    "nimetus": "Jahu peremaht",
+    "hind_km_ta": 0.29,
+    "laoseis": 377,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102743",
+    "nimetus": "Töökindad 50 tk",
+    "hind_km_ta": 119.19,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102678",
+    "nimetus": "Kali light",
+    "hind_km_ta": 8.49,
+    "laoseis": 484,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100801",
+    "nimetus": "Kustukumm must",
+    "hind_km_ta": 6.29,
+    "laoseis": 228,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101189",
+    "nimetus": "Viinerid mahe",
+    "hind_km_ta": 7.49,
+    "laoseis": 121,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100390",
+    "nimetus": "Saumikser juhtmevaba",
+    "hind_km_ta": 338.19,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101929",
+    "nimetus": "Hambahari tundlikule nahale",
+    "hind_km_ta": 8.29,
+    "laoseis": 273,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102534",
+    "nimetus": "Patareid AA säästupakk",
+    "hind_km_ta": 10.79,
+    "laoseis": 19,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101961",
+    "nimetus": "Riis 1 kg",
+    "hind_km_ta": 5.49,
+    "laoseis": 134,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102903",
+    "nimetus": "Kraadiklaas 200 ml",
+    "hind_km_ta": 11.79,
+    "laoseis": 186,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102696",
+    "nimetus": "Kommid peremaht",
+    "hind_km_ta": 2.19,
+    "laoseis": 33,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101713",
+    "nimetus": "Vihik A5",
+    "hind_km_ta": 1.19,
+    "laoseis": 417,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102740",
+    "nimetus": "Elulooraamat uus trükk",
+    "hind_km_ta": 18.49,
+    "laoseis": 90,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102578",
+    "nimetus": "Ninasprei lastele",
+    "hind_km_ta": 25.79,
+    "laoseis": 419,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100533",
+    "nimetus": "Toidukile 4 tk",
+    "hind_km_ta": 18.19,
+    "laoseis": 299,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101605",
+    "nimetus": "USB-mälupulk Pro",
+    "hind_km_ta": 153.19,
+    "laoseis": 19,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100096",
+    "nimetus": "Nõudepesuvahend 12 tk",
+    "hind_km_ta": 1.79,
+    "laoseis": 494,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102648",
+    "nimetus": "Kali suitsune",
+    "hind_km_ta": 3.95,
+    "laoseis": 53,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100843",
+    "nimetus": "Plaastrid lastele",
+    "hind_km_ta": 1.95,
+    "laoseis": 44,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100760",
+    "nimetus": "Akutrell 18 V",
+    "hind_km_ta": 17.49,
+    "laoseis": 189,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102379",
+    "nimetus": "Matemaatika õpik pehmekaaneline",
+    "hind_km_ta": 4.95,
+    "laoseis": 292,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103907",
+    "nimetus": "Deodorant 8 tk",
+    "hind_km_ta": 1.79,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100433",
+    "nimetus": "Python algajatele 2. trükk",
+    "hind_km_ta": 3.95,
+    "laoseis": 27,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102038",
+    "nimetus": "Liimipulk sinine",
+    "hind_km_ta": 31.19,
+    "laoseis": 104,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100562",
+    "nimetus": "Hapukurk peremaht",
+    "hind_km_ta": 6.29,
+    "laoseis": 107,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103084",
+    "nimetus": "Pesupulber suur",
+    "hind_km_ta": 1.95,
+    "laoseis": 335,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103581",
+    "nimetus": "Kõrvaklapid 2025",
+    "hind_km_ta": 39.79,
+    "laoseis": 190,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103914",
+    "nimetus": "Ümbrikud kontoripakk",
+    "hind_km_ta": 32.95,
+    "laoseis": 380,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102982",
+    "nimetus": "Kindad XL",
+    "hind_km_ta": 34.79,
+    "laoseis": 69,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100226",
+    "nimetus": "Nutikell 2025",
+    "hind_km_ta": 14.95,
+    "laoseis": 188,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103934",
+    "nimetus": "Mõõdulint 100 tk",
+    "hind_km_ta": 3.49,
+    "laoseis": 191,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101356",
+    "nimetus": "Sall unisex",
+    "hind_km_ta": 8.95,
+    "laoseis": 331,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101301",
+    "nimetus": "Prügikotid väike",
+    "hind_km_ta": 10.95,
+    "laoseis": 7,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103015",
+    "nimetus": "Hapukurk klassikaline",
+    "hind_km_ta": 5.95,
+    "laoseis": 333,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100153",
+    "nimetus": "Märkmik kontoripakk",
+    "hind_km_ta": 32.49,
+    "laoseis": 44,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100058",
+    "nimetus": "Saumikser Lite",
+    "hind_km_ta": 14.49,
+    "laoseis": 168,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100137",
+    "nimetus": "Tatar laktoosivaba",
+    "hind_km_ta": 9.79,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100962",
+    "nimetus": "Kindad unisex",
+    "hind_km_ta": 61.99,
+    "laoseis": 322,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103553",
+    "nimetus": "Tangid 5 m",
+    "hind_km_ta": 31.79,
+    "laoseis": 352,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102865",
+    "nimetus": "Veebikaamera 2025",
+    "hind_km_ta": 50.49,
+    "laoseis": 456,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100409",
+    "nimetus": "Kaustik sinine",
+    "hind_km_ta": 15.19,
+    "laoseis": 40,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101194",
+    "nimetus": "Tööriistakast suur",
+    "hind_km_ta": 3.99,
+    "laoseis": 247,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103872",
+    "nimetus": "USB-C kaabel must",
+    "hind_km_ta": 532.49,
+    "laoseis": 234,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102215",
+    "nimetus": "Kohupiim peremaht",
+    "hind_km_ta": 4.19,
+    "laoseis": 408,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100874",
+    "nimetus": "Lasteajakiri nädalalõpu nr",
+    "hind_km_ta": 9.29,
+    "laoseis": 88,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100814",
+    "nimetus": "Kiirköitja jooneline",
+    "hind_km_ta": 17.29,
+    "laoseis": 468,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102841",
+    "nimetus": "Vesilood 18 V",
+    "hind_km_ta": 124.49,
+    "laoseis": 280,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100460",
+    "nimetus": "Romaan I osa",
+    "hind_km_ta": 25.29,
+    "laoseis": 294,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100705",
+    "nimetus": "Moos klassikaline",
+    "hind_km_ta": 7.95,
+    "laoseis": 146,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100184",
+    "nimetus": "Paratsetamool 20 tk",
+    "hind_km_ta": 5.19,
+    "laoseis": 417,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100212",
+    "nimetus": "Dušigeel väike",
+    "hind_km_ta": 6.19,
+    "laoseis": 423,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102035",
+    "nimetus": "Aiandusajakiri erinumber",
+    "hind_km_ta": 1.29,
+    "laoseis": 305,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103643",
+    "nimetus": "Röster Max",
+    "hind_km_ta": 135.49,
+    "laoseis": 248,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101945",
+    "nimetus": "Küpsised suitsune",
+    "hind_km_ta": 0.79,
+    "laoseis": 236,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103435",
+    "nimetus": "Romaan illustreeritud",
+    "hind_km_ta": 14.95,
+    "laoseis": 165,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100257",
+    "nimetus": "Tee 200 g",
+    "hind_km_ta": 0.29,
+    "laoseis": 141,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100748",
+    "nimetus": "USB-C kaabel 2025",
+    "hind_km_ta": 317.79,
+    "laoseis": 280,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102368",
+    "nimetus": "Kleit puuvillane",
+    "hind_km_ta": 74.49,
+    "laoseis": 434,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100947",
+    "nimetus": "Seinavärv hobi",
+    "hind_km_ta": 13.95,
+    "laoseis": 18,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101989",
+    "nimetus": "Tualettpaber väike",
+    "hind_km_ta": 1.29,
+    "laoseis": 388,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101563",
+    "nimetus": "Seep sidruni",
+    "hind_km_ta": 14.95,
+    "laoseis": 249,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101093",
+    "nimetus": "Pesupulber 4 tk",
+    "hind_km_ta": 13.95,
+    "laoseis": 253,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100709",
+    "nimetus": "Toidukile 8 tk",
+    "hind_km_ta": 2.79,
+    "laoseis": 174,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103077",
+    "nimetus": "Tee 400 g",
+    "hind_km_ta": 0.49,
+    "laoseis": 316,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100189",
+    "nimetus": "Kirjaklambrid jooneline",
+    "hind_km_ta": 30.19,
+    "laoseis": 94,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102062",
+    "nimetus": "Mesi peremaht",
+    "hind_km_ta": 2.49,
+    "laoseis": 228,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102296",
+    "nimetus": "Hakkliha light",
+    "hind_km_ta": 10.79,
+    "laoseis": 201,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103172",
+    "nimetus": "Müts L",
+    "hind_km_ta": 81.79,
+    "laoseis": 471,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102957",
+    "nimetus": "Laadija must",
+    "hind_km_ta": 267.29,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102127",
+    "nimetus": "Käsnad 4 tk",
+    "hind_km_ta": 1.49,
+    "laoseis": 392,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100383",
+    "nimetus": "Moos 1 kg",
+    "hind_km_ta": 10.49,
+    "laoseis": 426,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103373",
+    "nimetus": "Paberipakk A4 sinine",
+    "hind_km_ta": 35.49,
+    "laoseis": 487,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101426",
+    "nimetus": "Röster Pro",
+    "hind_km_ta": 34.79,
+    "laoseis": 235,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100150",
+    "nimetus": "USB-mälupulk valge",
+    "hind_km_ta": 342.95,
+    "laoseis": 59,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103042",
+    "nimetus": "Marker sinine",
+    "hind_km_ta": 11.95,
+    "laoseis": 35,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100429",
+    "nimetus": "Majonees 1 l",
+    "hind_km_ta": 0.95,
+    "laoseis": 487,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102694",
+    "nimetus": "Plaastrid 60 tk",
+    "hind_km_ta": 7.95,
+    "laoseis": 58,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102987",
+    "nimetus": "Akutrell suur",
+    "hind_km_ta": 181.19,
+    "laoseis": 242,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100428",
+    "nimetus": "Kruvid hobi",
+    "hind_km_ta": 142.49,
+    "laoseis": 69,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101226",
+    "nimetus": "Märkmik A5",
+    "hind_km_ta": 11.19,
+    "laoseis": 483,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100982",
+    "nimetus": "Luulekogu illustreeritud",
+    "hind_km_ta": 3.99,
+    "laoseis": 348,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100304",
+    "nimetus": "Klaasipuhastusvahend 8 tk",
+    "hind_km_ta": 10.95,
+    "laoseis": 472,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103893",
+    "nimetus": "Kraadiklaas 30 tk",
+    "hind_km_ta": 28.79,
+    "laoseis": 154,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100541",
+    "nimetus": "Sinep mahe",
+    "hind_km_ta": 3.29,
+    "laoseis": 321,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102514",
+    "nimetus": "Pintsel hobi",
+    "hind_km_ta": 27.49,
+    "laoseis": 47,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102972",
+    "nimetus": "Värvirull 50 tk",
+    "hind_km_ta": 71.49,
+    "laoseis": 339,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101522",
+    "nimetus": "Pintsel 100 tk",
+    "hind_km_ta": 12.29,
+    "laoseis": 415,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100743",
+    "nimetus": "Seep suur",
+    "hind_km_ta": 2.99,
+    "laoseis": 303,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100367",
+    "nimetus": "Töövihik illustreeritud",
+    "hind_km_ta": 8.99,
+    "laoseis": 61,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100857",
+    "nimetus": "Kurgutabletid 20 tk",
+    "hind_km_ta": 34.99,
+    "laoseis": 328,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100078",
+    "nimetus": "Märkmik kooli",
+    "hind_km_ta": 37.29,
+    "laoseis": 422,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101478",
+    "nimetus": "Vihmajope XL",
+    "hind_km_ta": 64.79,
+    "laoseis": 280,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101360",
+    "nimetus": "Majonees laktoosivaba",
+    "hind_km_ta": 8.99,
+    "laoseis": 428,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102114",
+    "nimetus": "Šokolaad suitsune",
+    "hind_km_ta": 7.29,
+    "laoseis": 101,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102999",
+    "nimetus": "Dušigeel sidruni",
+    "hind_km_ta": 5.19,
+    "laoseis": 499,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100530",
+    "nimetus": "Makaronid 0,5 l",
+    "hind_km_ta": 7.19,
+    "laoseis": 160,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102862",
+    "nimetus": "Ibuprofeen 100 ml",
+    "hind_km_ta": 2.79,
+    "laoseis": 198,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101441",
+    "nimetus": "Reha 50 tk",
+    "hind_km_ta": 179.79,
+    "laoseis": 235,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101878",
+    "nimetus": "Majonees 400 g",
+    "hind_km_ta": 1.79,
+    "laoseis": 28,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100169",
+    "nimetus": "Sokid puuvillane",
+    "hind_km_ta": 6.99,
+    "laoseis": 141,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103573",
+    "nimetus": "Kustukumm ruuduline",
+    "hind_km_ta": 0.29,
+    "laoseis": 243,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100503",
+    "nimetus": "Tatar 0,5 l",
+    "hind_km_ta": 8.49,
+    "laoseis": 171,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102391",
+    "nimetus": "Monitor 2025",
+    "hind_km_ta": 23.99,
+    "laoseis": 437,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101759",
+    "nimetus": "LED-pirn 2025",
+    "hind_km_ta": 85.95,
+    "laoseis": 446,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103270",
+    "nimetus": "Töökindad 5 m",
+    "hind_km_ta": 7.99,
+    "laoseis": 455,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103497",
+    "nimetus": "Aiandusraamat I osa",
+    "hind_km_ta": 3.95,
+    "laoseis": 0,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103203",
+    "nimetus": "Tolmuimeja kompaktne",
+    "hind_km_ta": 723.49,
+    "laoseis": 183,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102468",
+    "nimetus": "Kruvikeerajate komplekt 18 V",
+    "hind_km_ta": 13.49,
+    "laoseis": 222,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102077",
+    "nimetus": "Eesti-inglise sõnaraamat pehmekaaneline",
+    "hind_km_ta": 26.49,
+    "laoseis": 74,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101225",
+    "nimetus": "Sai 0,5 l",
+    "hind_km_ta": 7.95,
+    "laoseis": 15,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101921",
+    "nimetus": "Pesuloputusvahend 4 tk",
+    "hind_km_ta": 16.29,
+    "laoseis": 454,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101603",
+    "nimetus": "Matemaatika õpik I osa",
+    "hind_km_ta": 17.19,
+    "laoseis": 281,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103111",
+    "nimetus": "Hambapasta eco",
+    "hind_km_ta": 1.29,
+    "laoseis": 181,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102796",
+    "nimetus": "Õunamahl suitsune",
+    "hind_km_ta": 3.49,
+    "laoseis": 259,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103760",
+    "nimetus": "Kaasaskantav kõlar juhtmevaba",
+    "hind_km_ta": 42.95,
+    "laoseis": 465,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100505",
+    "nimetus": "Õunamahl 200 g",
+    "hind_km_ta": 2.95,
+    "laoseis": 483,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101817",
+    "nimetus": "Või 500 g",
+    "hind_km_ta": 2.99,
+    "laoseis": 111,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102049",
+    "nimetus": "Röster must",
+    "hind_km_ta": 19.95,
+    "laoseis": 111,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101691",
+    "nimetus": "Küpsised 1 l",
+    "hind_km_ta": 0.49,
+    "laoseis": 222,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100762",
+    "nimetus": "Ketšup laktoosivaba",
+    "hind_km_ta": 9.79,
+    "laoseis": 4,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102910",
+    "nimetus": "Küünlad 4 tk",
+    "hind_km_ta": 1.79,
+    "laoseis": 292,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102692",
+    "nimetus": "Ümbrikud punane",
+    "hind_km_ta": 5.29,
+    "laoseis": 130,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103137",
+    "nimetus": "Viinerid 200 g",
+    "hind_km_ta": 8.19,
+    "laoseis": 238,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103198",
+    "nimetus": "Vesilood 5 m",
+    "hind_km_ta": 65.19,
+    "laoseis": 358,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103120",
+    "nimetus": "Matemaatika õpik kingitusväljaanne",
+    "hind_km_ta": 38.95,
+    "laoseis": 489,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103331",
+    "nimetus": "Moos 400 g",
+    "hind_km_ta": 0.79,
+    "laoseis": 422,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101303",
+    "nimetus": "Kiirköitja A4",
+    "hind_km_ta": 16.29,
+    "laoseis": 471,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102967",
+    "nimetus": "Kustukumm kooli",
+    "hind_km_ta": 30.79,
+    "laoseis": 157,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100878",
+    "nimetus": "Jahu 200 g",
+    "hind_km_ta": 5.29,
+    "laoseis": 173,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102020",
+    "nimetus": "Teksapüksid meriinovill",
+    "hind_km_ta": 77.99,
+    "laoseis": 242,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101086",
+    "nimetus": "Kurgutabletid 200 ml",
+    "hind_km_ta": 30.99,
+    "laoseis": 17,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103638",
+    "nimetus": "Eesti ajalugu I osa",
+    "hind_km_ta": 12.49,
+    "laoseis": 273,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102710",
+    "nimetus": "Juhtmevaba hiir Mini",
+    "hind_km_ta": 254.19,
+    "laoseis": 187,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103128",
+    "nimetus": "Monitor kompaktne",
+    "hind_km_ta": 316.79,
+    "laoseis": 384,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102135",
+    "nimetus": "Töökindad 3 m",
+    "hind_km_ta": 40.19,
+    "laoseis": 202,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103710",
+    "nimetus": "Nõudepesuvahend väike",
+    "hind_km_ta": 1.79,
+    "laoseis": 490,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102201",
+    "nimetus": "Tee 1 kg",
+    "hind_km_ta": 4.49,
+    "laoseis": 160,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100443",
+    "nimetus": "Vesilood 100 tk",
+    "hind_km_ta": 106.99,
+    "laoseis": 457,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101001",
+    "nimetus": "Reisijuht pehmekaaneline",
+    "hind_km_ta": 3.19,
+    "laoseis": 236,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100233",
+    "nimetus": "Villased sokid unisex",
+    "hind_km_ta": 18.29,
+    "laoseis": 258,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103703",
+    "nimetus": "Hambapasta suur",
+    "hind_km_ta": 1.95,
+    "laoseis": 304,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102527",
+    "nimetus": "Värvirull hobi",
+    "hind_km_ta": 110.95,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100618",
+    "nimetus": "Patareid AA 8 tk",
+    "hind_km_ta": 1.19,
+    "laoseis": 496,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101582",
+    "nimetus": "Kaerahelbed light",
+    "hind_km_ta": 1.19,
+    "laoseis": 463,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102489",
+    "nimetus": "Juust 1 kg",
+    "hind_km_ta": 11.29,
+    "laoseis": 361,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102652",
+    "nimetus": "Tüüblid 50 tk",
+    "hind_km_ta": 75.49,
+    "laoseis": 427,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100686",
+    "nimetus": "Nädalaleht juuni",
+    "hind_km_ta": 6.79,
+    "laoseis": 28,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103843",
+    "nimetus": "Pusa L",
+    "hind_km_ta": 10.19,
+    "laoseis": 137,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102540",
+    "nimetus": "Veekeetja 2025",
+    "hind_km_ta": 5.49,
+    "laoseis": 379,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100509",
+    "nimetus": "Fantaasiaromaan II osa",
+    "hind_km_ta": 34.99,
+    "laoseis": 467,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101689",
+    "nimetus": "Ibuprofeen 20 tk",
+    "hind_km_ta": 3.19,
+    "laoseis": 384,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103318",
+    "nimetus": "Aiandusraamat kingitusväljaanne",
+    "hind_km_ta": 44.29,
+    "laoseis": 64,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101594",
+    "nimetus": "Kartulikrõpsud 1 l",
+    "hind_km_ta": 0.99,
+    "laoseis": 5,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102276",
+    "nimetus": "Ümbrikud 10 tk",
+    "hind_km_ta": 0.29,
+    "laoseis": 19,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101408",
+    "nimetus": "Majonees 0,5 l",
+    "hind_km_ta": 12.95,
+    "laoseis": 69,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101670",
+    "nimetus": "Kartulikrõpsud light",
+    "hind_km_ta": 1.99,
+    "laoseis": 375,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101584",
+    "nimetus": "Makaronid 500 g",
+    "hind_km_ta": 1.79,
+    "laoseis": 143,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101306",
+    "nimetus": "Seinavärv suur",
+    "hind_km_ta": 5.79,
+    "laoseis": 27,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100737",
+    "nimetus": "Elulooraamat I osa",
+    "hind_km_ta": 15.79,
+    "laoseis": 268,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102142",
+    "nimetus": "Sokid unisex",
+    "hind_km_ta": 12.79,
+    "laoseis": 480,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101121",
+    "nimetus": "Deodorant lõhnatu",
+    "hind_km_ta": 4.79,
+    "laoseis": 138,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100591",
+    "nimetus": "Juhtmevaba hiir Pro",
+    "hind_km_ta": 20.49,
+    "laoseis": 22,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101873",
+    "nimetus": "Patareid AAA 8 tk",
+    "hind_km_ta": 5.99,
+    "laoseis": 400,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103446",
+    "nimetus": "Kaasaskantav kõlar 2025",
+    "hind_km_ta": 305.99,
+    "laoseis": 64,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102727",
+    "nimetus": "Klammerdaja must",
+    "hind_km_ta": 14.95,
+    "laoseis": 428,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101834",
+    "nimetus": "Elulooraamat illustreeritud",
+    "hind_km_ta": 3.29,
+    "laoseis": 203,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102152",
+    "nimetus": "Silmatilgad 10 tk",
+    "hind_km_ta": 1.99,
+    "laoseis": 217,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101277",
+    "nimetus": "Kleepmärkmed sinine",
+    "hind_km_ta": 21.29,
+    "laoseis": 175,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100664",
+    "nimetus": "Nõudepesuvahend tundlikule nahale",
+    "hind_km_ta": 6.99,
+    "laoseis": 266,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103749",
+    "nimetus": "Patareid AAA 12 tk",
+    "hind_km_ta": 13.79,
+    "laoseis": 185,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100936",
+    "nimetus": "Viinerid 1 kg",
+    "hind_km_ta": 7.29,
+    "laoseis": 482,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100011",
+    "nimetus": "Krimiromaan kingitusväljaanne",
+    "hind_km_ta": 44.95,
+    "laoseis": 30,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101855",
+    "nimetus": "Sokid laste",
+    "hind_km_ta": 4.99,
+    "laoseis": 294,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101455",
+    "nimetus": "Kali 500 g",
+    "hind_km_ta": 5.99,
+    "laoseis": 340,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101029",
+    "nimetus": "Kiirköitja kooli",
+    "hind_km_ta": 8.29,
+    "laoseis": 317,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100106",
+    "nimetus": "Hakkliha klassikaline",
+    "hind_km_ta": 10.79,
+    "laoseis": 500,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100730",
+    "nimetus": "Kiirköitja punane",
+    "hind_km_ta": 5.19,
+    "laoseis": 444,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103904",
+    "nimetus": "Aiavoolik 3 m",
+    "hind_km_ta": 83.95,
+    "laoseis": 152,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103378",
+    "nimetus": "Kaasaskantav kõlar Mini",
+    "hind_km_ta": 424.95,
+    "laoseis": 278,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100497",
+    "nimetus": "Kraadiklaas digitaalne",
+    "hind_km_ta": 17.49,
+    "laoseis": 32,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101366",
+    "nimetus": "Matemaatika õpik uus trükk",
+    "hind_km_ta": 23.99,
+    "laoseis": 141,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100097",
+    "nimetus": "Kommid 200 g",
+    "hind_km_ta": 1.19,
+    "laoseis": 256,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102415",
+    "nimetus": "Tualettpaber tundlikule nahale",
+    "hind_km_ta": 0.99,
+    "laoseis": 10,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100557",
+    "nimetus": "Patareid AAA lõhnatu",
+    "hind_km_ta": 0.95,
+    "laoseis": 315,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100388",
+    "nimetus": "Nutikell Mini",
+    "hind_km_ta": 54.29,
+    "laoseis": 8,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103252",
+    "nimetus": "Klaviatuur must",
+    "hind_km_ta": 167.49,
+    "laoseis": 19,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102332",
+    "nimetus": "Ibuprofeen täiskasvanutele",
+    "hind_km_ta": 15.79,
+    "laoseis": 188,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102016",
+    "nimetus": "Paratsetamool 30 tk",
+    "hind_km_ta": 24.99,
+    "laoseis": 377,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101718",
+    "nimetus": "Küünlad 12 tk",
+    "hind_km_ta": 14.19,
+    "laoseis": 415,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103142",
+    "nimetus": "Paberipakk A4 punane",
+    "hind_km_ta": 31.79,
+    "laoseis": 434,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103920",
+    "nimetus": "Veekeetja must",
+    "hind_km_ta": 324.99,
+    "laoseis": 140,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103347",
+    "nimetus": "Plaastrid digitaalne",
+    "hind_km_ta": 5.95,
+    "laoseis": 258,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101200",
+    "nimetus": "Kommid 1 kg",
+    "hind_km_ta": 4.19,
+    "laoseis": 363,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102306",
+    "nimetus": "Küünlad suur",
+    "hind_km_ta": 2.29,
+    "laoseis": 115,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100217",
+    "nimetus": "Sall M",
+    "hind_km_ta": 29.19,
+    "laoseis": 341,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102838",
+    "nimetus": "Deodorant eco",
+    "hind_km_ta": 21.19,
+    "laoseis": 87,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102270",
+    "nimetus": "Särk XL",
+    "hind_km_ta": 147.19,
+    "laoseis": 140,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100578",
+    "nimetus": "Nutikell hõbe",
+    "hind_km_ta": 6.95,
+    "laoseis": 409,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103625",
+    "nimetus": "Kirjaklambrid must",
+    "hind_km_ta": 23.29,
+    "laoseis": 81,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102565",
+    "nimetus": "Prügikotid 8 tk",
+    "hind_km_ta": 3.49,
+    "laoseis": 196,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102587",
+    "nimetus": "Vitamiin C 20 tk",
+    "hind_km_ta": 5.29,
+    "laoseis": 378,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100532",
+    "nimetus": "Kali 1 kg",
+    "hind_km_ta": 0.49,
+    "laoseis": 434,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101245",
+    "nimetus": "Mesi klassikaline",
+    "hind_km_ta": 7.95,
+    "laoseis": 379,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101869",
+    "nimetus": "Spordipüksid meeste",
+    "hind_km_ta": 101.99,
+    "laoseis": 347,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102225",
+    "nimetus": "Aiandusraamat 2. trükk",
+    "hind_km_ta": 9.79,
+    "laoseis": 265,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103135",
+    "nimetus": "Redel hobi",
+    "hind_km_ta": 150.29,
+    "laoseis": 164,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103658",
+    "nimetus": "Käsnad tundlikule nahale",
+    "hind_km_ta": 3.49,
+    "laoseis": 135,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102880",
+    "nimetus": "Patareid AA eco",
+    "hind_km_ta": 3.49,
+    "laoseis": 142,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102219",
+    "nimetus": "Küpsised light",
+    "hind_km_ta": 3.49,
+    "laoseis": 415,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100348",
+    "nimetus": "Kommid light",
+    "hind_km_ta": 0.19,
+    "laoseis": 442,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102872",
+    "nimetus": "Vihmajope laste",
+    "hind_km_ta": 96.99,
+    "laoseis": 469,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103763",
+    "nimetus": "Kleit S",
+    "hind_km_ta": 48.95,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101589",
+    "nimetus": "Tee 0,5 l",
+    "hind_km_ta": 3.99,
+    "laoseis": 448,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100550",
+    "nimetus": "Veebikaamera juhtmevaba",
+    "hind_km_ta": 164.99,
+    "laoseis": 297,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103580",
+    "nimetus": "Kraadiklaas 20 tk",
+    "hind_km_ta": 16.29,
+    "laoseis": 285,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102951",
+    "nimetus": "Küpsised 0,5 l",
+    "hind_km_ta": 6.95,
+    "laoseis": 115,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103811",
+    "nimetus": "Kokaraamat kõvakaaneline",
+    "hind_km_ta": 21.79,
+    "laoseis": 371,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103398",
+    "nimetus": "Arvutiajakiri nädalalõpu nr",
+    "hind_km_ta": 2.49,
+    "laoseis": 366,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100322",
+    "nimetus": "Kirjaklambrid kontoripakk",
+    "hind_km_ta": 9.79,
+    "laoseis": 355,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103475",
+    "nimetus": "Pikendusjuhe valge",
+    "hind_km_ta": 7.19,
+    "laoseis": 483,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103214",
+    "nimetus": "Majonees suitsune",
+    "hind_km_ta": 5.79,
+    "laoseis": 273,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102341",
+    "nimetus": "Küpsised 1 kg",
+    "hind_km_ta": 4.29,
+    "laoseis": 280,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100271",
+    "nimetus": "Klammerdaja A5",
+    "hind_km_ta": 9.49,
+    "laoseis": 284,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103860",
+    "nimetus": "Teadusajakiri juuni",
+    "hind_km_ta": 1.19,
+    "laoseis": 390,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100862",
+    "nimetus": "Krimiromaan II osa",
+    "hind_km_ta": 16.49,
+    "laoseis": 207,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103636",
+    "nimetus": "Kohupiim suitsune",
+    "hind_km_ta": 10.79,
+    "laoseis": 220,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103713",
+    "nimetus": "Viinerid laktoosivaba",
+    "hind_km_ta": 1.79,
+    "laoseis": 448,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102253",
+    "nimetus": "Tööriistakast 3 m",
+    "hind_km_ta": 1.19,
+    "laoseis": 471,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103311",
+    "nimetus": "Veekeetja juhtmevaba",
+    "hind_km_ta": 533.29,
+    "laoseis": 292,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101979",
+    "nimetus": "Või suitsune",
+    "hind_km_ta": 7.99,
+    "laoseis": 328,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100849",
+    "nimetus": "Mineraalvesi 400 g",
+    "hind_km_ta": 10.99,
+    "laoseis": 29,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100406",
+    "nimetus": "Allergiatabletid 100 ml",
+    "hind_km_ta": 6.19,
+    "laoseis": 28,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101621",
+    "nimetus": "Mineraalvesi 0,5 l",
+    "hind_km_ta": 8.49,
+    "laoseis": 481,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100716",
+    "nimetus": "Dušigeel eco",
+    "hind_km_ta": 10.29,
+    "laoseis": 355,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101234",
+    "nimetus": "Matemaatika õpik II osa",
+    "hind_km_ta": 38.49,
+    "laoseis": 150,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102320",
+    "nimetus": "Pikendusjuhe 2025",
+    "hind_km_ta": 197.19,
+    "laoseis": 253,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102789",
+    "nimetus": "Monitor must",
+    "hind_km_ta": 51.79,
+    "laoseis": 200,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101831",
+    "nimetus": "Python algajatele illustreeritud",
+    "hind_km_ta": 18.99,
+    "laoseis": 426,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103000",
+    "nimetus": "Laadija valge",
+    "hind_km_ta": 245.95,
+    "laoseis": 238,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102311",
+    "nimetus": "Märkmik ruuduline",
+    "hind_km_ta": 8.99,
+    "laoseis": 321,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103254",
+    "nimetus": "Kaustik ruuduline",
+    "hind_km_ta": 19.19,
+    "laoseis": 287,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101923",
+    "nimetus": "Vitamiin C 200 ml",
+    "hind_km_ta": 23.79,
+    "laoseis": 483,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102892",
+    "nimetus": "Toidukile suur",
+    "hind_km_ta": 1.49,
+    "laoseis": 297,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101729",
+    "nimetus": "Harilik pliiats A5",
+    "hind_km_ta": 13.29,
+    "laoseis": 172,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102459",
+    "nimetus": "Kruvikeerajate komplekt 5 m",
+    "hind_km_ta": 83.79,
+    "laoseis": 239,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102752",
+    "nimetus": "Kruvid väike",
+    "hind_km_ta": 30.29,
+    "laoseis": 495,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100639",
+    "nimetus": "Tee suitsune",
+    "hind_km_ta": 5.99,
+    "laoseis": 350,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101708",
+    "nimetus": "Sall meriinovill",
+    "hind_km_ta": 10.79,
+    "laoseis": 288,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103601",
+    "nimetus": "Kummikud meriinovill",
+    "hind_km_ta": 8.99,
+    "laoseis": 160,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101387",
+    "nimetus": "Vesilood 3 m",
+    "hind_km_ta": 182.29,
+    "laoseis": 464,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103375",
+    "nimetus": "Müts naiste",
+    "hind_km_ta": 53.95,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102718",
+    "nimetus": "Kiirköitja kontoripakk",
+    "hind_km_ta": 7.99,
+    "laoseis": 366,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102194",
+    "nimetus": "Kommid 400 g",
+    "hind_km_ta": 10.99,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101204",
+    "nimetus": "Sokid meriinovill",
+    "hind_km_ta": 77.49,
+    "laoseis": 62,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101622",
+    "nimetus": "Klammerdaja A4",
+    "hind_km_ta": 26.79,
+    "laoseis": 298,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103261",
+    "nimetus": "Suhkur laktoosivaba",
+    "hind_km_ta": 2.99,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101013",
+    "nimetus": "Kokaraamat 2. trükk",
+    "hind_km_ta": 4.29,
+    "laoseis": 299,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103464",
+    "nimetus": "LED-pirn must",
+    "hind_km_ta": 692.79,
+    "laoseis": 463,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102345",
+    "nimetus": "Kohupiim light",
+    "hind_km_ta": 7.95,
+    "laoseis": 315,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100337",
+    "nimetus": "Kartulikrõpsud 200 g",
+    "hind_km_ta": 6.99,
+    "laoseis": 441,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100103",
+    "nimetus": "Kirjaklambrid sinine",
+    "hind_km_ta": 9.79,
+    "laoseis": 305,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102769",
+    "nimetus": "Reisijuht kingitusväljaanne",
+    "hind_km_ta": 17.79,
+    "laoseis": 161,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103742",
+    "nimetus": "Kõrvaklapid valge",
+    "hind_km_ta": 48.19,
+    "laoseis": 135,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103862",
+    "nimetus": "Mesi 1 l",
+    "hind_km_ta": 0.49,
+    "laoseis": 302,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103053",
+    "nimetus": "USB-mälupulk 2025",
+    "hind_km_ta": 117.95,
+    "laoseis": 227,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101193",
+    "nimetus": "Fooliumirull 4 tk",
+    "hind_km_ta": 3.99,
+    "laoseis": 433,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102302",
+    "nimetus": "Šampoon 12 tk",
+    "hind_km_ta": 7.79,
+    "laoseis": 315,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100566",
+    "nimetus": "USB-C kaabel Lite",
+    "hind_km_ta": 84.49,
+    "laoseis": 47,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101963",
+    "nimetus": "Sokid S",
+    "hind_km_ta": 99.79,
+    "laoseis": 420,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100466",
+    "nimetus": "Ninasprei digitaalne",
+    "hind_km_ta": 17.99,
+    "laoseis": 0,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103329",
+    "nimetus": "Tolmuimeja valge",
+    "hind_km_ta": 19.99,
+    "laoseis": 187,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103106",
+    "nimetus": "Sinep light",
+    "hind_km_ta": 1.95,
+    "laoseis": 167,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102419",
+    "nimetus": "Python algajatele pehmekaaneline",
+    "hind_km_ta": 25.49,
+    "laoseis": 3,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103477",
+    "nimetus": "Lumelabidas väike",
+    "hind_km_ta": 123.29,
+    "laoseis": 266,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100368",
+    "nimetus": "Makaronid 1 kg",
+    "hind_km_ta": 7.49,
+    "laoseis": 242,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100331",
+    "nimetus": "Aiandusajakiri juuni",
+    "hind_km_ta": 5.99,
+    "laoseis": 24,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103544",
+    "nimetus": "Nõudepesuvahend lõhnatu",
+    "hind_km_ta": 16.95,
+    "laoseis": 457,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103740",
+    "nimetus": "Šokolaad 0,5 l",
+    "hind_km_ta": 8.19,
+    "laoseis": 319,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100220",
+    "nimetus": "Lasteraamat 2. trükk",
+    "hind_km_ta": 13.95,
+    "laoseis": 286,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103228",
+    "nimetus": "Luulekogu uus trükk",
+    "hind_km_ta": 16.95,
+    "laoseis": 430,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102256",
+    "nimetus": "Kanafilee 500 g",
+    "hind_km_ta": 0.99,
+    "laoseis": 354,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101496",
+    "nimetus": "Piim suitsune",
+    "hind_km_ta": 7.95,
+    "laoseis": 347,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102783",
+    "nimetus": "Akupank valge",
+    "hind_km_ta": 863.49,
+    "laoseis": 4,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101840",
+    "nimetus": "Õunamahl 0,5 l",
+    "hind_km_ta": 9.99,
+    "laoseis": 432,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103738",
+    "nimetus": "Hapukurk suitsune",
+    "hind_km_ta": 3.29,
+    "laoseis": 317,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101785",
+    "nimetus": "Redel väike",
+    "hind_km_ta": 76.95,
+    "laoseis": 202,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101683",
+    "nimetus": "Paberipakk A4 kooli",
+    "hind_km_ta": 17.29,
+    "laoseis": 64,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102172",
+    "nimetus": "Mineraalvesi 1 l",
+    "hind_km_ta": 0.79,
+    "laoseis": 57,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103665",
+    "nimetus": "Tööriistakast 18 V",
+    "hind_km_ta": 30.79,
+    "laoseis": 431,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101421",
+    "nimetus": "Pastakas jooneline",
+    "hind_km_ta": 1.99,
+    "laoseis": 345,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100454",
+    "nimetus": "Kohvimasin hõbe",
+    "hind_km_ta": 416.19,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100121",
+    "nimetus": "Luulekogu 2. trükk",
+    "hind_km_ta": 39.29,
+    "laoseis": 235,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102637",
+    "nimetus": "Kaerahelbed 400 g",
+    "hind_km_ta": 1.49,
+    "laoseis": 143,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100359",
+    "nimetus": "Mesi 0,5 l",
+    "hind_km_ta": 5.19,
+    "laoseis": 292,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100517",
+    "nimetus": "Harilik pliiats kontoripakk",
+    "hind_km_ta": 27.99,
+    "laoseis": 303,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102881",
+    "nimetus": "Saumikser kompaktne",
+    "hind_km_ta": 104.19,
+    "laoseis": 472,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102917",
+    "nimetus": "Paratsetamool 200 ml",
+    "hind_km_ta": 26.99,
+    "laoseis": 438,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100089",
+    "nimetus": "Reisijuht 2. trükk",
+    "hind_km_ta": 22.49,
+    "laoseis": 133,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103232",
+    "nimetus": "Pusa S",
+    "hind_km_ta": 30.49,
+    "laoseis": 129,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100494",
+    "nimetus": "Riis mahe",
+    "hind_km_ta": 0.49,
+    "laoseis": 473,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101695",
+    "nimetus": "Nõudepesuvahend säästupakk",
+    "hind_km_ta": 24.95,
+    "laoseis": 244,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100004",
+    "nimetus": "Kanafilee light",
+    "hind_km_ta": 0.99,
+    "laoseis": 224,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103364",
+    "nimetus": "Kleit meriinovill",
+    "hind_km_ta": 4.19,
+    "laoseis": 292,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100399",
+    "nimetus": "Küünlad väike",
+    "hind_km_ta": 23.99,
+    "laoseis": 77,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102067",
+    "nimetus": "LED-pirn Max",
+    "hind_km_ta": 33.29,
+    "laoseis": 327,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101634",
+    "nimetus": "Klaasipuhastusvahend säästupakk",
+    "hind_km_ta": 3.95,
+    "laoseis": 275,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101352",
+    "nimetus": "Sink light",
+    "hind_km_ta": 0.99,
+    "laoseis": 195,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100702",
+    "nimetus": "Python algajatele I osa",
+    "hind_km_ta": 4.95,
+    "laoseis": 310,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101008",
+    "nimetus": "Juust 400 g",
+    "hind_km_ta": 0.79,
+    "laoseis": 89,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102478",
+    "nimetus": "Mineraalvesi suitsune",
+    "hind_km_ta": 12.79,
+    "laoseis": 499,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102423",
+    "nimetus": "Eesti-inglise sõnaraamat II osa",
+    "hind_km_ta": 4.99,
+    "laoseis": 1,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101483",
+    "nimetus": "Joonlaud kooli",
+    "hind_km_ta": 35.19,
+    "laoseis": 110,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103474",
+    "nimetus": "Toidukile 12 tk",
+    "hind_km_ta": 0.99,
+    "laoseis": 187,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102909",
+    "nimetus": "Ketšup klassikaline",
+    "hind_km_ta": 10.99,
+    "laoseis": 149,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101064",
+    "nimetus": "Klaviatuur Max",
+    "hind_km_ta": 103.19,
+    "laoseis": 478,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102940",
+    "nimetus": "Pikendusjuhe Mini",
+    "hind_km_ta": 260.19,
+    "laoseis": 478,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101830",
+    "nimetus": "Kaerahelbed 1 kg",
+    "hind_km_ta": 8.19,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100065",
+    "nimetus": "Pesupulber tundlikule nahale",
+    "hind_km_ta": 18.19,
+    "laoseis": 37,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100816",
+    "nimetus": "Piim laktoosivaba",
+    "hind_km_ta": 9.19,
+    "laoseis": 64,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103101",
+    "nimetus": "Kleit laste",
+    "hind_km_ta": 42.95,
+    "laoseis": 482,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100636",
+    "nimetus": "Köharohi 30 tk",
+    "hind_km_ta": 6.79,
+    "laoseis": 228,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101464",
+    "nimetus": "Sai 1 kg",
+    "hind_km_ta": 10.19,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101560",
+    "nimetus": "Müts puuvillane",
+    "hind_km_ta": 148.95,
+    "laoseis": 249,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102304",
+    "nimetus": "Hapukurk 500 g",
+    "hind_km_ta": 0.49,
+    "laoseis": 39,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103408",
+    "nimetus": "Vihik sinine",
+    "hind_km_ta": 5.29,
+    "laoseis": 262,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100386",
+    "nimetus": "Tüüblid hobi",
+    "hind_km_ta": 7.99,
+    "laoseis": 382,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103279",
+    "nimetus": "Kokaraamat kingitusväljaanne",
+    "hind_km_ta": 21.79,
+    "laoseis": 0,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102630",
+    "nimetus": "Teksapüksid S",
+    "hind_km_ta": 99.79,
+    "laoseis": 269,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102977",
+    "nimetus": "Tossud naiste",
+    "hind_km_ta": 17.95,
+    "laoseis": 211,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102933",
+    "nimetus": "Harilik pliiats A4",
+    "hind_km_ta": 2.49,
+    "laoseis": 56,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102729",
+    "nimetus": "Kohupiim 1 l",
+    "hind_km_ta": 1.99,
+    "laoseis": 487,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102567",
+    "nimetus": "Kommid 1 l",
+    "hind_km_ta": 6.29,
+    "laoseis": 315,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102644",
+    "nimetus": "Tualettpaber 4 tk",
+    "hind_km_ta": 4.99,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102856",
+    "nimetus": "USB-mälupulk kompaktne",
+    "hind_km_ta": 705.19,
+    "laoseis": 155,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103127",
+    "nimetus": "Keefir suitsune",
+    "hind_km_ta": 0.79,
+    "laoseis": 115,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103367",
+    "nimetus": "Vitamiin C digitaalne",
+    "hind_km_ta": 3.49,
+    "laoseis": 8,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102441",
+    "nimetus": "Tualettpaber säästupakk",
+    "hind_km_ta": 1.29,
+    "laoseis": 331,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100471",
+    "nimetus": "Tee 1 l",
+    "hind_km_ta": 1.49,
+    "laoseis": 493,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102209",
+    "nimetus": "Muruniiduk 18 V",
+    "hind_km_ta": 163.99,
+    "laoseis": 44,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103721",
+    "nimetus": "Kalkulaator 10 tk",
+    "hind_km_ta": 30.79,
+    "laoseis": 303,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102457",
+    "nimetus": "Hambahari eco",
+    "hind_km_ta": 1.29,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100278",
+    "nimetus": "Tee laktoosivaba",
+    "hind_km_ta": 0.49,
+    "laoseis": 335,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102177",
+    "nimetus": "Hambapasta väike",
+    "hind_km_ta": 11.49,
+    "laoseis": 264,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103162",
+    "nimetus": "Föön kompaktne",
+    "hind_km_ta": 542.29,
+    "laoseis": 296,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102556",
+    "nimetus": "Prügikotid tundlikule nahale",
+    "hind_km_ta": 1.19,
+    "laoseis": 254,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100320",
+    "nimetus": "Klammerdaja punane",
+    "hind_km_ta": 0.29,
+    "laoseis": 13,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101957",
+    "nimetus": "Šokolaad 1 kg",
+    "hind_km_ta": 8.99,
+    "laoseis": 51,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103274",
+    "nimetus": "Kleepmärkmed 10 tk",
+    "hind_km_ta": 19.49,
+    "laoseis": 226,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100821",
+    "nimetus": "Särk meriinovill",
+    "hind_km_ta": 9.29,
+    "laoseis": 440,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103699",
+    "nimetus": "Dušigeel lõhnatu",
+    "hind_km_ta": 17.79,
+    "laoseis": 153,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103788",
+    "nimetus": "Elulooraamat kõvakaaneline",
+    "hind_km_ta": 43.95,
+    "laoseis": 430,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103476",
+    "nimetus": "Sai laktoosivaba",
+    "hind_km_ta": 1.95,
+    "laoseis": 220,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101272",
+    "nimetus": "Spordipüksid S",
+    "hind_km_ta": 13.99,
+    "laoseis": 86,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103650",
+    "nimetus": "Töökindad 18 V",
+    "hind_km_ta": 124.99,
+    "laoseis": 408,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102445",
+    "nimetus": "Sinep peremaht",
+    "hind_km_ta": 2.29,
+    "laoseis": 342,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101100",
+    "nimetus": "Keefir mahe",
+    "hind_km_ta": 4.49,
+    "laoseis": 309,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101049",
+    "nimetus": "Maakonnaleht nädalalõpu nr",
+    "hind_km_ta": 9.29,
+    "laoseis": 84,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102273",
+    "nimetus": "Villased sokid meeste",
+    "hind_km_ta": 17.49,
+    "laoseis": 227,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100974",
+    "nimetus": "Spordipüksid puuvillane",
+    "hind_km_ta": 91.95,
+    "laoseis": 60,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100917",
+    "nimetus": "Tatar 1 l",
+    "hind_km_ta": 1.29,
+    "laoseis": 379,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101265",
+    "nimetus": "Suhkur 200 g",
+    "hind_km_ta": 4.49,
+    "laoseis": 456,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101627",
+    "nimetus": "Juust mahe",
+    "hind_km_ta": 1.19,
+    "laoseis": 437,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103263",
+    "nimetus": "Aiavoolik väike",
+    "hind_km_ta": 9.29,
+    "laoseis": 11,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101525",
+    "nimetus": "Või 400 g",
+    "hind_km_ta": 3.99,
+    "laoseis": 395,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100321",
+    "nimetus": "Riis suitsune",
+    "hind_km_ta": 0.79,
+    "laoseis": 97,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100045",
+    "nimetus": "Lõhefilee suitsune",
+    "hind_km_ta": 2.79,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102326",
+    "nimetus": "Toidukile säästupakk",
+    "hind_km_ta": 19.99,
+    "laoseis": 227,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100237",
+    "nimetus": "Teksapüksid puuvillane",
+    "hind_km_ta": 81.95,
+    "laoseis": 24,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100802",
+    "nimetus": "Kartulikrõpsud klassikaline",
+    "hind_km_ta": 8.95,
+    "laoseis": 116,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101667",
+    "nimetus": "Köharohi 20 tk",
+    "hind_km_ta": 1.29,
+    "laoseis": 135,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100377",
+    "nimetus": "Keefir 0,5 l",
+    "hind_km_ta": 8.95,
+    "laoseis": 392,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103284",
+    "nimetus": "Liimipulk A5",
+    "hind_km_ta": 0.99,
+    "laoseis": 233,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103309",
+    "nimetus": "Vihik ruuduline",
+    "hind_km_ta": 22.29,
+    "laoseis": 48,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101232",
+    "nimetus": "Triikraud 2025",
+    "hind_km_ta": 195.19,
+    "laoseis": 398,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100260",
+    "nimetus": "Seinavärv 100 tk",
+    "hind_km_ta": 49.49,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103786",
+    "nimetus": "Lasteajakiri veebruar",
+    "hind_km_ta": 5.49,
+    "laoseis": 10,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100625",
+    "nimetus": "Makaronid light",
+    "hind_km_ta": 7.19,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103569",
+    "nimetus": "Vitamiin D 30 tk",
+    "hind_km_ta": 20.29,
+    "laoseis": 230,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100194",
+    "nimetus": "Pesupulber eco",
+    "hind_km_ta": 1.99,
+    "laoseis": 74,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100779",
+    "nimetus": "Klaasipuhastusvahend väike",
+    "hind_km_ta": 11.95,
+    "laoseis": 464,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100630",
+    "nimetus": "USB-C kaabel valge",
+    "hind_km_ta": 20.99,
+    "laoseis": 332,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101614",
+    "nimetus": "Tee mahe",
+    "hind_km_ta": 0.99,
+    "laoseis": 30,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103039",
+    "nimetus": "Särk M",
+    "hind_km_ta": 37.79,
+    "laoseis": 53,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102157",
+    "nimetus": "Mõõdulint teleskoopvarrega",
+    "hind_km_ta": 124.49,
+    "laoseis": 169,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102452",
+    "nimetus": "Sai suitsune",
+    "hind_km_ta": 5.99,
+    "laoseis": 423,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102962",
+    "nimetus": "Sinep 200 g",
+    "hind_km_ta": 3.19,
+    "laoseis": 69,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103071",
+    "nimetus": "Seep väike",
+    "hind_km_ta": 1.29,
+    "laoseis": 77,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100127",
+    "nimetus": "Kaerahelbed 500 g",
+    "hind_km_ta": 0.19,
+    "laoseis": 409,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103487",
+    "nimetus": "Deodorant 4 tk",
+    "hind_km_ta": 12.49,
+    "laoseis": 7,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101660",
+    "nimetus": "Pesuloputusvahend lõhnatu",
+    "hind_km_ta": 1.29,
+    "laoseis": 452,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101807",
+    "nimetus": "Pastakas ruuduline",
+    "hind_km_ta": 19.29,
+    "laoseis": 153,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101526",
+    "nimetus": "Kiirköitja sinine",
+    "hind_km_ta": 1.79,
+    "laoseis": 474,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101138",
+    "nimetus": "Föön hõbe",
+    "hind_km_ta": 666.49,
+    "laoseis": 233,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101654",
+    "nimetus": "Dušigeel 8 tk",
+    "hind_km_ta": 23.99,
+    "laoseis": 267,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100939",
+    "nimetus": "Kirjaklambrid punane",
+    "hind_km_ta": 10.49,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103186",
+    "nimetus": "Mesi light",
+    "hind_km_ta": 1.29,
+    "laoseis": 17,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100307",
+    "nimetus": "Tolmuimeja hõbe",
+    "hind_km_ta": 445.95,
+    "laoseis": 424,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100288",
+    "nimetus": "Tatar 500 g",
+    "hind_km_ta": 4.49,
+    "laoseis": 481,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102496",
+    "nimetus": "Õunamahl 1 kg",
+    "hind_km_ta": 8.19,
+    "laoseis": 201,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101569",
+    "nimetus": "Sinep 1 l",
+    "hind_km_ta": 1.95,
+    "laoseis": 344,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101465",
+    "nimetus": "Tatar 400 g",
+    "hind_km_ta": 9.99,
+    "laoseis": 53,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101214",
+    "nimetus": "Seep säästupakk",
+    "hind_km_ta": 5.99,
+    "laoseis": 254,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101883",
+    "nimetus": "Vitamiin C 10 tk",
+    "hind_km_ta": 20.79,
+    "laoseis": 52,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102866",
+    "nimetus": "Vihmajope puuvillane",
+    "hind_km_ta": 67.29,
+    "laoseis": 92,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103725",
+    "nimetus": "Köharohi 10 tk",
+    "hind_km_ta": 0.49,
+    "laoseis": 91,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101042",
+    "nimetus": "Jogurt 200 g",
+    "hind_km_ta": 9.99,
+    "laoseis": 144,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103372",
+    "nimetus": "Magneesium 60 tk",
+    "hind_km_ta": 21.49,
+    "laoseis": 390,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101021",
+    "nimetus": "Tossud M",
+    "hind_km_ta": 9.19,
+    "laoseis": 221,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103026",
+    "nimetus": "Küünlad 8 tk",
+    "hind_km_ta": 22.49,
+    "laoseis": 423,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102164",
+    "nimetus": "Lasteraamat kingitusväljaanne",
+    "hind_km_ta": 4.19,
+    "laoseis": 148,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103189",
+    "nimetus": "Kruvid 100 tk",
+    "hind_km_ta": 2.49,
+    "laoseis": 102,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102614",
+    "nimetus": "Plaastrid 10 tk",
+    "hind_km_ta": 1.49,
+    "laoseis": 493,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102671",
+    "nimetus": "Jahu laktoosivaba",
+    "hind_km_ta": 3.49,
+    "laoseis": 90,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100301",
+    "nimetus": "Patareid AAA sidruni",
+    "hind_km_ta": 16.19,
+    "laoseis": 199,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101249",
+    "nimetus": "Reha 5 m",
+    "hind_km_ta": 9.49,
+    "laoseis": 287,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100667",
+    "nimetus": "Majapidamispaber säästupakk",
+    "hind_km_ta": 18.99,
+    "laoseis": 244,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100993",
+    "nimetus": "Vitamiin D täiskasvanutele",
+    "hind_km_ta": 3.29,
+    "laoseis": 259,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102237",
+    "nimetus": "Föön Lite",
+    "hind_km_ta": 522.49,
+    "laoseis": 65,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100567",
+    "nimetus": "Kokaraamat uus trükk",
+    "hind_km_ta": 25.95,
+    "laoseis": 355,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101471",
+    "nimetus": "Jahu light",
+    "hind_km_ta": 0.95,
+    "laoseis": 319,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103704",
+    "nimetus": "Kindad S",
+    "hind_km_ta": 4.79,
+    "laoseis": 493,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102024",
+    "nimetus": "Klaasipuhastusvahend eco",
+    "hind_km_ta": 1.29,
+    "laoseis": 49,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100206",
+    "nimetus": "Mesi 1 kg",
+    "hind_km_ta": 8.19,
+    "laoseis": 82,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100865",
+    "nimetus": "Sink 200 g",
+    "hind_km_ta": 1.49,
+    "laoseis": 461,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101545",
+    "nimetus": "Ninasprei 60 tk",
+    "hind_km_ta": 9.99,
+    "laoseis": 175,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103587",
+    "nimetus": "Kaustik kooli",
+    "hind_km_ta": 14.95,
+    "laoseis": 108,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100025",
+    "nimetus": "Saumikser hõbe",
+    "hind_km_ta": 38.79,
+    "laoseis": 341,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103563",
+    "nimetus": "Kartulikrõpsud peremaht",
+    "hind_km_ta": 10.29,
+    "laoseis": 23,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100521",
+    "nimetus": "Kohv laktoosivaba",
+    "hind_km_ta": 12.49,
+    "laoseis": 94,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100536",
+    "nimetus": "Allergiatabletid lastele",
+    "hind_km_ta": 1.99,
+    "laoseis": 266,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102980",
+    "nimetus": "Vihik jooneline",
+    "hind_km_ta": 31.79,
+    "laoseis": 434,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101319",
+    "nimetus": "Piim 1 l",
+    "hind_km_ta": 10.19,
+    "laoseis": 175,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103386",
+    "nimetus": "Toidukile tundlikule nahale",
+    "hind_km_ta": 1.29,
+    "laoseis": 131,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101333",
+    "nimetus": "Seinavärv 50 tk",
+    "hind_km_ta": 52.95,
+    "laoseis": 280,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102549",
+    "nimetus": "Patareid AAA säästupakk",
+    "hind_km_ta": 12.49,
+    "laoseis": 85,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101168",
+    "nimetus": "Lõhefilee light",
+    "hind_km_ta": 3.95,
+    "laoseis": 469,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102088",
+    "nimetus": "Paberipakk A4 ruuduline",
+    "hind_km_ta": 20.79,
+    "laoseis": 462,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102703",
+    "nimetus": "Jahu 500 g",
+    "hind_km_ta": 0.29,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103406",
+    "nimetus": "Klammerdaja ruuduline",
+    "hind_km_ta": 29.79,
+    "laoseis": 131,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102657",
+    "nimetus": "Juust 1 l",
+    "hind_km_ta": 3.29,
+    "laoseis": 287,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103019",
+    "nimetus": "Värvirull teleskoopvarrega",
+    "hind_km_ta": 144.95,
+    "laoseis": 315,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102282",
+    "nimetus": "Nõudepesuvahend eco",
+    "hind_km_ta": 6.19,
+    "laoseis": 155,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103493",
+    "nimetus": "Majapidamispaber 4 tk",
+    "hind_km_ta": 8.99,
+    "laoseis": 382,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100680",
+    "nimetus": "Käsnad väike",
+    "hind_km_ta": 13.79,
+    "laoseis": 198,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101673",
+    "nimetus": "Krimiromaan kõvakaaneline",
+    "hind_km_ta": 39.49,
+    "laoseis": 295,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102598",
+    "nimetus": "Veebikaamera valge",
+    "hind_km_ta": 47.29,
+    "laoseis": 440,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101900",
+    "nimetus": "Kruvikeerajate komplekt väike",
+    "hind_km_ta": 4.19,
+    "laoseis": 81,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100911",
+    "nimetus": "Pildiraamat illustreeritud",
+    "hind_km_ta": 18.29,
+    "laoseis": 153,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100073",
+    "nimetus": "Majapidamispaber 8 tk",
+    "hind_km_ta": 2.49,
+    "laoseis": 255,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101313",
+    "nimetus": "Rukkileib klassikaline",
+    "hind_km_ta": 10.19,
+    "laoseis": 174,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102336",
+    "nimetus": "Akupank Lite",
+    "hind_km_ta": 5.49,
+    "laoseis": 44,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103819",
+    "nimetus": "Patareid AA väike",
+    "hind_km_ta": 20.19,
+    "laoseis": 39,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100930",
+    "nimetus": "Lõhefilee 1 l",
+    "hind_km_ta": 6.79,
+    "laoseis": 371,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103059",
+    "nimetus": "Akupank 2025",
+    "hind_km_ta": 83.49,
+    "laoseis": 114,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100809",
+    "nimetus": "Jogurt light",
+    "hind_km_ta": 0.19,
+    "laoseis": 118,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101025",
+    "nimetus": "Silmatilgad 30 tk",
+    "hind_km_ta": 6.19,
+    "laoseis": 45,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101128",
+    "nimetus": "Rukkileib 0,5 l",
+    "hind_km_ta": 6.29,
+    "laoseis": 50,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102846",
+    "nimetus": "Harilik pliiats kooli",
+    "hind_km_ta": 1.19,
+    "laoseis": 101,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100059",
+    "nimetus": "Ristsõnaajakiri juuni",
+    "hind_km_ta": 3.19,
+    "laoseis": 480,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101101",
+    "nimetus": "Piim 0,5 l",
+    "hind_km_ta": 0.99,
+    "laoseis": 413,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100196",
+    "nimetus": "Allergiatabletid 20 tk",
+    "hind_km_ta": 1.19,
+    "laoseis": 315,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101580",
+    "nimetus": "Klaasipuhastusvahend suur",
+    "hind_km_ta": 15.79,
+    "laoseis": 64,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101697",
+    "nimetus": "Seinavärv väike",
+    "hind_km_ta": 18.49,
+    "laoseis": 198,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100158",
+    "nimetus": "Laadija hõbe",
+    "hind_km_ta": 32.95,
+    "laoseis": 431,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100118",
+    "nimetus": "Kanafilee laktoosivaba",
+    "hind_km_ta": 3.29,
+    "laoseis": 144,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101134",
+    "nimetus": "Vihik kontoripakk",
+    "hind_km_ta": 9.99,
+    "laoseis": 459,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102500",
+    "nimetus": "Keefir 1 l",
+    "hind_km_ta": 0.95,
+    "laoseis": 323,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101936",
+    "nimetus": "T-särk M",
+    "hind_km_ta": 57.79,
+    "laoseis": 1,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103031",
+    "nimetus": "Kanafilee 200 g",
+    "hind_km_ta": 2.79,
+    "laoseis": 388,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103197",
+    "nimetus": "Makaronid peremaht",
+    "hind_km_ta": 9.49,
+    "laoseis": 124,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103342",
+    "nimetus": "Kaasaskantav kõlar kompaktne",
+    "hind_km_ta": 18.19,
+    "laoseis": 187,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100163",
+    "nimetus": "Tatar 200 g",
+    "hind_km_ta": 0.29,
+    "laoseis": 367,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103322",
+    "nimetus": "Vererõhumõõtja 20 tk",
+    "hind_km_ta": 16.79,
+    "laoseis": 423,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102166",
+    "nimetus": "Pesuloputusvahend väike",
+    "hind_km_ta": 18.19,
+    "laoseis": 291,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103242",
+    "nimetus": "Kohvimasin juhtmevaba",
+    "hind_km_ta": 25.95,
+    "laoseis": 166,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103485",
+    "nimetus": "Vitamiin C 30 tk",
+    "hind_km_ta": 30.95,
+    "laoseis": 397,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101749",
+    "nimetus": "Tee klassikaline",
+    "hind_km_ta": 7.19,
+    "laoseis": 310,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101142",
+    "nimetus": "Krimiromaan illustreeritud",
+    "hind_km_ta": 12.99,
+    "laoseis": 295,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100975",
+    "nimetus": "Kali 200 g",
+    "hind_km_ta": 1.49,
+    "laoseis": 316,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100326",
+    "nimetus": "Liimipulk 10 tk",
+    "hind_km_ta": 30.29,
+    "laoseis": 177,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102641",
+    "nimetus": "Särk S",
+    "hind_km_ta": 4.29,
+    "laoseis": 207,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101792",
+    "nimetus": "Majonees peremaht",
+    "hind_km_ta": 1.29,
+    "laoseis": 164,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101922",
+    "nimetus": "Töövihik kingitusväljaanne",
+    "hind_km_ta": 21.79,
+    "laoseis": 432,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101379",
+    "nimetus": "Deodorant sidruni",
+    "hind_km_ta": 1.79,
+    "laoseis": 407,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101882",
+    "nimetus": "Eesti-inglise sõnaraamat uus trükk",
+    "hind_km_ta": 2.29,
+    "laoseis": 304,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101040",
+    "nimetus": "Klammerdaja sinine",
+    "hind_km_ta": 25.29,
+    "laoseis": 82,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103495",
+    "nimetus": "Kummikud meeste",
+    "hind_km_ta": 18.49,
+    "laoseis": 305,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100838",
+    "nimetus": "Riis 200 g",
+    "hind_km_ta": 1.79,
+    "laoseis": 264,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101487",
+    "nimetus": "Majonees klassikaline",
+    "hind_km_ta": 9.29,
+    "laoseis": 140,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103901",
+    "nimetus": "Tangid 50 tk",
+    "hind_km_ta": 19.49,
+    "laoseis": 366,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103085",
+    "nimetus": "Hakkliha 500 g",
+    "hind_km_ta": 7.99,
+    "laoseis": 276,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101725",
+    "nimetus": "Kaerahelbed 0,5 l",
+    "hind_km_ta": 10.49,
+    "laoseis": 234,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102990",
+    "nimetus": "Kindad M",
+    "hind_km_ta": 13.49,
+    "laoseis": 280,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103536",
+    "nimetus": "Plaastrid 200 ml",
+    "hind_km_ta": 16.29,
+    "laoseis": 255,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101276",
+    "nimetus": "Pusa meriinovill",
+    "hind_km_ta": 4.99,
+    "laoseis": 246,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102243",
+    "nimetus": "Jogurt peremaht",
+    "hind_km_ta": 4.19,
+    "laoseis": 276,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102828",
+    "nimetus": "Tossud laste",
+    "hind_km_ta": 37.29,
+    "laoseis": 341,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103711",
+    "nimetus": "Triikraud Pro",
+    "hind_km_ta": 152.95,
+    "laoseis": 128,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103068",
+    "nimetus": "Nõudepesuvahend 8 tk",
+    "hind_km_ta": 11.79,
+    "laoseis": 455,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102399",
+    "nimetus": "Triikraud Lite",
+    "hind_km_ta": 177.29,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100752",
+    "nimetus": "Šampoon säästupakk",
+    "hind_km_ta": 2.19,
+    "laoseis": 216,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102836",
+    "nimetus": "Pildiraamat II osa",
+    "hind_km_ta": 17.29,
+    "laoseis": 0,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101006",
+    "nimetus": "Triikraud hõbe",
+    "hind_km_ta": 7.29,
+    "laoseis": 491,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101959",
+    "nimetus": "Pastakas kooli",
+    "hind_km_ta": 1.99,
+    "laoseis": 500,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101790",
+    "nimetus": "Hambahari suur",
+    "hind_km_ta": 2.49,
+    "laoseis": 106,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103365",
+    "nimetus": "Lõhefilee mahe",
+    "hind_km_ta": 1.95,
+    "laoseis": 329,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101532",
+    "nimetus": "Sinep 500 g",
+    "hind_km_ta": 10.49,
+    "laoseis": 76,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102958",
+    "nimetus": "Šampoon sidruni",
+    "hind_km_ta": 1.95,
+    "laoseis": 240,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102661",
+    "nimetus": "Rukkileib 400 g",
+    "hind_km_ta": 7.79,
+    "laoseis": 109,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100397",
+    "nimetus": "Jahu 0,5 l",
+    "hind_km_ta": 0.95,
+    "laoseis": 97,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101559",
+    "nimetus": "Mesi 200 g",
+    "hind_km_ta": 7.19,
+    "laoseis": 121,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101282",
+    "nimetus": "Muruniiduk 5 m",
+    "hind_km_ta": 1.19,
+    "laoseis": 211,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100584",
+    "nimetus": "Lumelabidas 100 tk",
+    "hind_km_ta": 1.79,
+    "laoseis": 390,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100657",
+    "nimetus": "Keefir laktoosivaba",
+    "hind_km_ta": 4.49,
+    "laoseis": 431,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102584",
+    "nimetus": "Šampoon 4 tk",
+    "hind_km_ta": 24.49,
+    "laoseis": 355,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100091",
+    "nimetus": "Sokid naiste",
+    "hind_km_ta": 25.19,
+    "laoseis": 412,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100345",
+    "nimetus": "Aiandusraamat pehmekaaneline",
+    "hind_km_ta": 45.49,
+    "laoseis": 179,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101431",
+    "nimetus": "Lõhefilee 0,5 l",
+    "hind_km_ta": 4.49,
+    "laoseis": 23,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100162",
+    "nimetus": "Eesti ajalugu uus trükk",
+    "hind_km_ta": 28.95,
+    "laoseis": 98,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100061",
+    "nimetus": "Šokolaad klassikaline",
+    "hind_km_ta": 10.79,
+    "laoseis": 474,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102507",
+    "nimetus": "Nutikell juhtmevaba",
+    "hind_km_ta": 638.29,
+    "laoseis": 357,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103145",
+    "nimetus": "Patareid AA 4 tk",
+    "hind_km_ta": 13.49,
+    "laoseis": 75,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100665",
+    "nimetus": "Laadija Mini",
+    "hind_km_ta": 420.49,
+    "laoseis": 247,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103823",
+    "nimetus": "Kalkulaator ruuduline",
+    "hind_km_ta": 6.99,
+    "laoseis": 278,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100926",
+    "nimetus": "Kaerahelbed mahe",
+    "hind_km_ta": 0.49,
+    "laoseis": 131,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101842",
+    "nimetus": "Aiandusajakiri märts",
+    "hind_km_ta": 6.95,
+    "laoseis": 283,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102485",
+    "nimetus": "Kraadiklaas lastele",
+    "hind_km_ta": 4.49,
+    "laoseis": 93,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102636",
+    "nimetus": "Sinep suitsune",
+    "hind_km_ta": 0.95,
+    "laoseis": 267,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101732",
+    "nimetus": "Pikendusjuhe must",
+    "hind_km_ta": 554.79,
+    "laoseis": 99,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100593",
+    "nimetus": "Vitamiin D digitaalne",
+    "hind_km_ta": 1.19,
+    "laoseis": 189,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100480",
+    "nimetus": "Laadija Pro",
+    "hind_km_ta": 138.99,
+    "laoseis": 22,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101423",
+    "nimetus": "Fantaasiaromaan kõvakaaneline",
+    "hind_km_ta": 33.99,
+    "laoseis": 188,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100016",
+    "nimetus": "Monitor juhtmevaba",
+    "hind_km_ta": 662.49,
+    "laoseis": 267,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103257",
+    "nimetus": "Ibuprofeen 200 ml",
+    "hind_km_ta": 31.49,
+    "laoseis": 475,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103511",
+    "nimetus": "Kaasaskantav kõlar hõbe",
+    "hind_km_ta": 23.95,
+    "laoseis": 107,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100125",
+    "nimetus": "Toidukile eco",
+    "hind_km_ta": 20.19,
+    "laoseis": 278,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103468",
+    "nimetus": "Liimipulk kooli",
+    "hind_km_ta": 0.29,
+    "laoseis": 248,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103529",
+    "nimetus": "Tatar klassikaline",
+    "hind_km_ta": 0.29,
+    "laoseis": 198,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102003",
+    "nimetus": "Ketšup 400 g",
+    "hind_km_ta": 0.95,
+    "laoseis": 495,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100807",
+    "nimetus": "Mineraalvesi light",
+    "hind_km_ta": 0.19,
+    "laoseis": 127,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103802",
+    "nimetus": "Veekeetja valge",
+    "hind_km_ta": 381.99,
+    "laoseis": 351,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101506",
+    "nimetus": "Magneesium digitaalne",
+    "hind_km_ta": 7.79,
+    "laoseis": 455,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102877",
+    "nimetus": "Särk laste",
+    "hind_km_ta": 127.95,
+    "laoseis": 370,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101284",
+    "nimetus": "T-särk puuvillane",
+    "hind_km_ta": 32.49,
+    "laoseis": 50,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101073",
+    "nimetus": "Paratsetamool 10 tk",
+    "hind_km_ta": 2.29,
+    "laoseis": 159,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102356",
+    "nimetus": "Röster juhtmevaba",
+    "hind_km_ta": 232.29,
+    "laoseis": 13,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102779",
+    "nimetus": "Pusa XL",
+    "hind_km_ta": 4.99,
+    "laoseis": 456,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101800",
+    "nimetus": "Pikendusjuhe kompaktne",
+    "hind_km_ta": 876.19,
+    "laoseis": 88,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103281",
+    "nimetus": "Autoajakiri veebruar",
+    "hind_km_ta": 1.99,
+    "laoseis": 76,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103607",
+    "nimetus": "Suhkur 1 kg",
+    "hind_km_ta": 5.29,
+    "laoseis": 467,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100247",
+    "nimetus": "Klaasipuhastusvahend sidruni",
+    "hind_km_ta": 10.95,
+    "laoseis": 214,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101239",
+    "nimetus": "Vihmajope meeste",
+    "hind_km_ta": 45.49,
+    "laoseis": 88,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101298",
+    "nimetus": "Töökindad suur",
+    "hind_km_ta": 10.49,
+    "laoseis": 467,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101551",
+    "nimetus": "Patareid AAA suur",
+    "hind_km_ta": 24.49,
+    "laoseis": 100,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100826",
+    "nimetus": "Röster Lite",
+    "hind_km_ta": 181.79,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103781",
+    "nimetus": "Aiavoolik suur",
+    "hind_km_ta": 85.19,
+    "laoseis": 397,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103542",
+    "nimetus": "Pesupulber säästupakk",
+    "hind_km_ta": 1.49,
+    "laoseis": 351,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100407",
+    "nimetus": "Kustukumm sinine",
+    "hind_km_ta": 13.29,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101413",
+    "nimetus": "Arvutiajakiri erinumber",
+    "hind_km_ta": 3.29,
+    "laoseis": 88,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100622",
+    "nimetus": "Küpsised 500 g",
+    "hind_km_ta": 0.19,
+    "laoseis": 341,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102638",
+    "nimetus": "Ninasprei 10 tk",
+    "hind_km_ta": 10.99,
+    "laoseis": 440,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103473",
+    "nimetus": "Värvirull 3 m",
+    "hind_km_ta": 89.95,
+    "laoseis": 348,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101378",
+    "nimetus": "Kohvimasin Lite",
+    "hind_km_ta": 30.79,
+    "laoseis": 160,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102232",
+    "nimetus": "Šokolaad laktoosivaba",
+    "hind_km_ta": 7.95,
+    "laoseis": 20,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102238",
+    "nimetus": "Kaasaskantav kõlar Max",
+    "hind_km_ta": 335.29,
+    "laoseis": 11,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100062",
+    "nimetus": "Kokaraamat II osa",
+    "hind_km_ta": 14.79,
+    "laoseis": 165,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103338",
+    "nimetus": "Teadusajakiri nädalalõpu nr",
+    "hind_km_ta": 7.49,
+    "laoseis": 273,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102620",
+    "nimetus": "Nädalaleht aprill",
+    "hind_km_ta": 2.99,
+    "laoseis": 218,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102850",
+    "nimetus": "Kindad naiste",
+    "hind_km_ta": 73.79,
+    "laoseis": 328,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101823",
+    "nimetus": "Föön Mini",
+    "hind_km_ta": 41.95,
+    "laoseis": 240,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101108",
+    "nimetus": "Šokolaad peremaht",
+    "hind_km_ta": 0.29,
+    "laoseis": 66,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102792",
+    "nimetus": "Tualettpaber eco",
+    "hind_km_ta": 5.49,
+    "laoseis": 267,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103838",
+    "nimetus": "Šampoon eco",
+    "hind_km_ta": 17.99,
+    "laoseis": 127,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102040",
+    "nimetus": "Hakkliha peremaht",
+    "hind_km_ta": 4.49,
+    "laoseis": 492,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102558",
+    "nimetus": "Lasteraamat illustreeritud",
+    "hind_km_ta": 6.49,
+    "laoseis": 0,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102289",
+    "nimetus": "Särk puuvillane",
+    "hind_km_ta": 7.49,
+    "laoseis": 126,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102801",
+    "nimetus": "Hambahari sidruni",
+    "hind_km_ta": 2.49,
+    "laoseis": 481,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103689",
+    "nimetus": "Akupank hõbe",
+    "hind_km_ta": 322.29,
+    "laoseis": 355,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103685",
+    "nimetus": "Tööriistakast professional",
+    "hind_km_ta": 6.29,
+    "laoseis": 430,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101429",
+    "nimetus": "Jogurt 1 kg",
+    "hind_km_ta": 6.95,
+    "laoseis": 203,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100648",
+    "nimetus": "Tüüblid 100 tk",
+    "hind_km_ta": 156.49,
+    "laoseis": 56,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101192",
+    "nimetus": "Kummikud puuvillane",
+    "hind_km_ta": 106.99,
+    "laoseis": 223,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102804",
+    "nimetus": "Harilik pliiats sinine",
+    "hind_km_ta": 0.19,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100048",
+    "nimetus": "Käsnad 12 tk",
+    "hind_km_ta": 11.99,
+    "laoseis": 399,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101973",
+    "nimetus": "Deodorant säästupakk",
+    "hind_km_ta": 9.79,
+    "laoseis": 7,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103255",
+    "nimetus": "Elulooraamat kingitusväljaanne",
+    "hind_km_ta": 6.99,
+    "laoseis": 79,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102031",
+    "nimetus": "Romaan kõvakaaneline",
+    "hind_km_ta": 17.79,
+    "laoseis": 310,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101735",
+    "nimetus": "Sink 1 kg",
+    "hind_km_ta": 1.29,
+    "laoseis": 499,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103754",
+    "nimetus": "Ristsõnaajakiri veebruar",
+    "hind_km_ta": 1.99,
+    "laoseis": 426,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102809",
+    "nimetus": "Kiirköitja A5",
+    "hind_km_ta": 6.79,
+    "laoseis": 329,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100522",
+    "nimetus": "Makaronid 200 g",
+    "hind_km_ta": 1.49,
+    "laoseis": 30,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100179",
+    "nimetus": "Küünlad eco",
+    "hind_km_ta": 12.95,
+    "laoseis": 46,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102712",
+    "nimetus": "Elulooraamat 2. trükk",
+    "hind_km_ta": 17.99,
+    "laoseis": 67,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103287",
+    "nimetus": "Pastakas 10 tk",
+    "hind_km_ta": 10.95,
+    "laoseis": 329,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101254",
+    "nimetus": "Hambahari lõhnatu",
+    "hind_km_ta": 1.79,
+    "laoseis": 288,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100269",
+    "nimetus": "Šampoon 8 tk",
+    "hind_km_ta": 10.49,
+    "laoseis": 37,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103866",
+    "nimetus": "Juust 200 g",
+    "hind_km_ta": 4.79,
+    "laoseis": 283,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103357",
+    "nimetus": "Villased sokid L",
+    "hind_km_ta": 43.79,
+    "laoseis": 32,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103066",
+    "nimetus": "Kalkulaator A5",
+    "hind_km_ta": 1.19,
+    "laoseis": 117,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100951",
+    "nimetus": "Monitor valge",
+    "hind_km_ta": 858.95,
+    "laoseis": 416,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100436",
+    "nimetus": "Juust laktoosivaba",
+    "hind_km_ta": 0.19,
+    "laoseis": 397,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102153",
+    "nimetus": "Kali 400 g",
+    "hind_km_ta": 8.99,
+    "laoseis": 148,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103447",
+    "nimetus": "Kaustik A4",
+    "hind_km_ta": 4.19,
+    "laoseis": 277,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102396",
+    "nimetus": "Aiandusajakiri veebruar",
+    "hind_km_ta": 1.49,
+    "laoseis": 113,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103630",
+    "nimetus": "Moeajakiri juuni",
+    "hind_km_ta": 4.99,
+    "laoseis": 229,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102009",
+    "nimetus": "Lasteajakiri juuni",
+    "hind_km_ta": 6.19,
+    "laoseis": 11,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100869",
+    "nimetus": "Kruvid 5 m",
+    "hind_km_ta": 150.99,
+    "laoseis": 182,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101346",
+    "nimetus": "Krimiromaan uus trükk",
+    "hind_km_ta": 9.49,
+    "laoseis": 406,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102246",
+    "nimetus": "Kartulikrõpsud laktoosivaba",
+    "hind_km_ta": 8.19,
+    "laoseis": 232,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100545",
+    "nimetus": "Tee 500 g",
+    "hind_km_ta": 9.49,
+    "laoseis": 371,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103116",
+    "nimetus": "Piim 500 g",
+    "hind_km_ta": 1.99,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101291",
+    "nimetus": "Kustukumm A4",
+    "hind_km_ta": 32.19,
+    "laoseis": 263,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100883",
+    "nimetus": "Hapukurk 1 l",
+    "hind_km_ta": 4.99,
+    "laoseis": 240,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100721",
+    "nimetus": "Kohvimasin Max",
+    "hind_km_ta": 384.95,
+    "laoseis": 363,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100538",
+    "nimetus": "Kurgutabletid 100 ml",
+    "hind_km_ta": 30.29,
+    "laoseis": 391,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101162",
+    "nimetus": "Šokolaad 400 g",
+    "hind_km_ta": 10.19,
+    "laoseis": 456,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102340",
+    "nimetus": "Kustukumm punane",
+    "hind_km_ta": 12.29,
+    "laoseis": 241,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102717",
+    "nimetus": "Maakonnaleht juuni",
+    "hind_km_ta": 9.95,
+    "laoseis": 350,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102927",
+    "nimetus": "Kommid laktoosivaba",
+    "hind_km_ta": 8.29,
+    "laoseis": 248,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100767",
+    "nimetus": "Kohv 400 g",
+    "hind_km_ta": 11.79,
+    "laoseis": 12,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100902",
+    "nimetus": "Teadusajakiri erinumber",
+    "hind_km_ta": 6.95,
+    "laoseis": 312,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102572",
+    "nimetus": "Käsnad eco",
+    "hind_km_ta": 1.29,
+    "laoseis": 264,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100111",
+    "nimetus": "Talvejope L",
+    "hind_km_ta": 111.95,
+    "laoseis": 286,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100205",
+    "nimetus": "Juust peremaht",
+    "hind_km_ta": 8.79,
+    "laoseis": 58,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101760",
+    "nimetus": "Lasteajakiri märts",
+    "hind_km_ta": 1.79,
+    "laoseis": 322,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100038",
+    "nimetus": "Nädalaleht veebruar",
+    "hind_km_ta": 1.95,
+    "laoseis": 245,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101509",
+    "nimetus": "Hapukurk 200 g",
+    "hind_km_ta": 0.29,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102376",
+    "nimetus": "Juust 0,5 l",
+    "hind_km_ta": 2.49,
+    "laoseis": 386,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103278",
+    "nimetus": "Klaviatuur valge",
+    "hind_km_ta": 571.19,
+    "laoseis": 488,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102162",
+    "nimetus": "Haamer väike",
+    "hind_km_ta": 1.29,
+    "laoseis": 284,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101703",
+    "nimetus": "Pikendusjuhe Lite",
+    "hind_km_ta": 8.99,
+    "laoseis": 252,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100295",
+    "nimetus": "Küpsised 200 g",
+    "hind_km_ta": 0.19,
+    "laoseis": 170,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103657",
+    "nimetus": "Mineraalvesi klassikaline",
+    "hind_km_ta": 1.29,
+    "laoseis": 143,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101175",
+    "nimetus": "Käsnad suur",
+    "hind_km_ta": 8.95,
+    "laoseis": 415,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101778",
+    "nimetus": "Kruvid 50 tk",
+    "hind_km_ta": 59.99,
+    "laoseis": 4,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101679",
+    "nimetus": "Patareid AAA tundlikule nahale",
+    "hind_km_ta": 8.95,
+    "laoseis": 383,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102052",
+    "nimetus": "Mesi 500 g",
+    "hind_km_ta": 0.95,
+    "laoseis": 107,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101743",
+    "nimetus": "Õunamahl 500 g",
+    "hind_km_ta": 7.19,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100561",
+    "nimetus": "Kohupiim 200 g",
+    "hind_km_ta": 4.19,
+    "laoseis": 347,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102109",
+    "nimetus": "Hambapasta 8 tk",
+    "hind_km_ta": 10.49,
+    "laoseis": 227,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102766",
+    "nimetus": "Köharohi digitaalne",
+    "hind_km_ta": 8.49,
+    "laoseis": 269,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103220",
+    "nimetus": "Kohv suitsune",
+    "hind_km_ta": 3.49,
+    "laoseis": 439,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103325",
+    "nimetus": "Hakkliha suitsune",
+    "hind_km_ta": 1.95,
+    "laoseis": 377,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101329",
+    "nimetus": "Kaasaskantav kõlar Lite",
+    "hind_km_ta": 251.99,
+    "laoseis": 445,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101448",
+    "nimetus": "Krimiromaan 2. trükk",
+    "hind_km_ta": 22.19,
+    "laoseis": 345,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100334",
+    "nimetus": "Kurgutabletid lastele",
+    "hind_km_ta": 1.19,
+    "laoseis": 292,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100531",
+    "nimetus": "Kohupiim 0,5 l",
+    "hind_km_ta": 1.95,
+    "laoseis": 465,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101210",
+    "nimetus": "Jogurt 500 g",
+    "hind_km_ta": 4.95,
+    "laoseis": 391,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101592",
+    "nimetus": "Tatar 1 kg",
+    "hind_km_ta": 0.19,
+    "laoseis": 427,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102520",
+    "nimetus": "Veekeetja Pro",
+    "hind_km_ta": 5.95,
+    "laoseis": 335,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100655",
+    "nimetus": "Jahu suitsune",
+    "hind_km_ta": 8.79,
+    "laoseis": 110,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103540",
+    "nimetus": "Maakonnaleht erinumber",
+    "hind_km_ta": 7.29,
+    "laoseis": 117,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103776",
+    "nimetus": "Akupank must",
+    "hind_km_ta": 407.79,
+    "laoseis": 328,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101264",
+    "nimetus": "Dušigeel 12 tk",
+    "hind_km_ta": 2.49,
+    "laoseis": 398,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103079",
+    "nimetus": "Kartulikrõpsud 0,5 l",
+    "hind_km_ta": 1.49,
+    "laoseis": 135,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100905",
+    "nimetus": "Sidemerull 10 tk",
+    "hind_km_ta": 25.49,
+    "laoseis": 113,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101341",
+    "nimetus": "Riis 500 g",
+    "hind_km_ta": 0.99,
+    "laoseis": 169,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102793",
+    "nimetus": "Aiandusraamat II osa",
+    "hind_km_ta": 10.95,
+    "laoseis": 435,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100606",
+    "nimetus": "Kokaraamat I osa",
+    "hind_km_ta": 3.49,
+    "laoseis": 120,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100338",
+    "nimetus": "Fooliumirull tundlikule nahale",
+    "hind_km_ta": 11.49,
+    "laoseis": 348,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103245",
+    "nimetus": "Reha professional",
+    "hind_km_ta": 124.95,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100768",
+    "nimetus": "Pildiraamat 2. trükk",
+    "hind_km_ta": 28.19,
+    "laoseis": 343,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102685",
+    "nimetus": "Moeajakiri nädalalõpu nr",
+    "hind_km_ta": 1.95,
+    "laoseis": 44,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101153",
+    "nimetus": "Viinerid klassikaline",
+    "hind_km_ta": 0.19,
+    "laoseis": 413,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103825",
+    "nimetus": "Kali klassikaline",
+    "hind_km_ta": 4.79,
+    "laoseis": 143,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103807",
+    "nimetus": "Aiavoolik 50 tk",
+    "hind_km_ta": 51.79,
+    "laoseis": 138,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101456",
+    "nimetus": "Küünlad sidruni",
+    "hind_km_ta": 5.29,
+    "laoseis": 415,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102352",
+    "nimetus": "Kirjaklambrid ruuduline",
+    "hind_km_ta": 31.29,
+    "laoseis": 11,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100487",
+    "nimetus": "Rukkileib light",
+    "hind_km_ta": 9.19,
+    "laoseis": 444,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102706",
+    "nimetus": "Rukkileib laktoosivaba",
+    "hind_km_ta": 2.99,
+    "laoseis": 229,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100421",
+    "nimetus": "Fooliumirull 12 tk",
+    "hind_km_ta": 1.29,
+    "laoseis": 494,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101849",
+    "nimetus": "Kurgutabletid digitaalne",
+    "hind_km_ta": 11.29,
+    "laoseis": 238,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103177",
+    "nimetus": "Muruniiduk 3 m",
+    "hind_km_ta": 184.95,
+    "laoseis": 363,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103098",
+    "nimetus": "Patareid AAA 4 tk",
+    "hind_km_ta": 1.99,
+    "laoseis": 388,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100176",
+    "nimetus": "Toidukile väike",
+    "hind_km_ta": 2.19,
+    "laoseis": 475,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100889",
+    "nimetus": "Tangid 100 tk",
+    "hind_km_ta": 100.95,
+    "laoseis": 188,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101774",
+    "nimetus": "Õunamahl light",
+    "hind_km_ta": 9.99,
+    "laoseis": 192,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101458",
+    "nimetus": "Riis 400 g",
+    "hind_km_ta": 7.49,
+    "laoseis": 130,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103937",
+    "nimetus": "Fantaasiaromaan illustreeritud",
+    "hind_km_ta": 45.19,
+    "laoseis": 489,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101586",
+    "nimetus": "Pusa naiste",
+    "hind_km_ta": 63.29,
+    "laoseis": 178,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101540",
+    "nimetus": "Pusa meeste",
+    "hind_km_ta": 35.95,
+    "laoseis": 272,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100547",
+    "nimetus": "Kaustik must",
+    "hind_km_ta": 0.99,
+    "laoseis": 321,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100313",
+    "nimetus": "Tüüblid teleskoopvarrega",
+    "hind_km_ta": 6.95,
+    "laoseis": 174,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100262",
+    "nimetus": "Juhtmevaba hiir must",
+    "hind_km_ta": 743.99,
+    "laoseis": 275,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102746",
+    "nimetus": "Marker 10 tk",
+    "hind_km_ta": 0.79,
+    "laoseis": 215,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102947",
+    "nimetus": "Eesti-inglise sõnaraamat kõvakaaneline",
+    "hind_km_ta": 13.79,
+    "laoseis": 167,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101066",
+    "nimetus": "Pusa laste",
+    "hind_km_ta": 4.49,
+    "laoseis": 69,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100840",
+    "nimetus": "Šokolaad 200 g",
+    "hind_km_ta": 1.19,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101909",
+    "nimetus": "Patareid AAA väike",
+    "hind_km_ta": 14.79,
+    "laoseis": 178,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103233",
+    "nimetus": "Tualettpaber 12 tk",
+    "hind_km_ta": 13.99,
+    "laoseis": 479,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102547",
+    "nimetus": "Magneesium 20 tk",
+    "hind_km_ta": 4.79,
+    "laoseis": 294,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101768",
+    "nimetus": "Ninasprei 20 tk",
+    "hind_km_ta": 1.95,
+    "laoseis": 203,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101386",
+    "nimetus": "Luulekogu II osa",
+    "hind_km_ta": 12.29,
+    "laoseis": 5,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101263",
+    "nimetus": "Köharohi täiskasvanutele",
+    "hind_km_ta": 2.95,
+    "laoseis": 278,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101791",
+    "nimetus": "Spordipüksid laste",
+    "hind_km_ta": 60.99,
+    "laoseis": 224,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101238",
+    "nimetus": "Arvutiajakiri aprill",
+    "hind_km_ta": 1.29,
+    "laoseis": 218,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101082",
+    "nimetus": "Pesuloputusvahend säästupakk",
+    "hind_km_ta": 7.99,
+    "laoseis": 110,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101552",
+    "nimetus": "Kurgutabletid 60 tk",
+    "hind_km_ta": 8.99,
+    "laoseis": 162,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102901",
+    "nimetus": "Mineraalvesi peremaht",
+    "hind_km_ta": 10.29,
+    "laoseis": 95,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103846",
+    "nimetus": "Teadusajakiri veebruar",
+    "hind_km_ta": 1.99,
+    "laoseis": 334,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102651",
+    "nimetus": "Sink 500 g",
+    "hind_km_ta": 5.99,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103037",
+    "nimetus": "Teadusajakiri jaanuar",
+    "hind_km_ta": 3.19,
+    "laoseis": 51,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101057",
+    "nimetus": "Kaustik 10 tk",
+    "hind_km_ta": 17.19,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102650",
+    "nimetus": "Kindad meriinovill",
+    "hind_km_ta": 41.95,
+    "laoseis": 435,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103301",
+    "nimetus": "Pesuloputusvahend eco",
+    "hind_km_ta": 23.95,
+    "laoseis": 52,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101500",
+    "nimetus": "Prügikotid 12 tk",
+    "hind_km_ta": 22.95,
+    "laoseis": 373,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100645",
+    "nimetus": "Joonlaud sinine",
+    "hind_km_ta": 25.29,
+    "laoseis": 228,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102183",
+    "nimetus": "Šokolaad light",
+    "hind_km_ta": 5.29,
+    "laoseis": 7,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101515",
+    "nimetus": "USB-mälupulk hõbe",
+    "hind_km_ta": 508.19,
+    "laoseis": 246,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100673",
+    "nimetus": "Ketšup peremaht",
+    "hind_km_ta": 0.79,
+    "laoseis": 439,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100476",
+    "nimetus": "Vihik A4",
+    "hind_km_ta": 14.49,
+    "laoseis": 301,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103045",
+    "nimetus": "Silmatilgad täiskasvanutele",
+    "hind_km_ta": 15.95,
+    "laoseis": 178,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101080",
+    "nimetus": "Romaan kingitusväljaanne",
+    "hind_km_ta": 28.79,
+    "laoseis": 350,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101918",
+    "nimetus": "Õunamahl 1 l",
+    "hind_km_ta": 3.79,
+    "laoseis": 23,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103832",
+    "nimetus": "Rukkileib 500 g",
+    "hind_km_ta": 9.95,
+    "laoseis": 385,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102883",
+    "nimetus": "Šokolaad 500 g",
+    "hind_km_ta": 0.49,
+    "laoseis": 432,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100754",
+    "nimetus": "Majonees mahe",
+    "hind_km_ta": 5.95,
+    "laoseis": 24,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100222",
+    "nimetus": "Triikraud Max",
+    "hind_km_ta": 10.99,
+    "laoseis": 243,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100652",
+    "nimetus": "Romaan pehmekaaneline",
+    "hind_km_ta": 2.79,
+    "laoseis": 166,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102374",
+    "nimetus": "Fooliumirull suur",
+    "hind_km_ta": 10.95,
+    "laoseis": 450,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103756",
+    "nimetus": "Romaan II osa",
+    "hind_km_ta": 7.95,
+    "laoseis": 175,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100449",
+    "nimetus": "Allergiatabletid 200 ml",
+    "hind_km_ta": 4.29,
+    "laoseis": 404,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102724",
+    "nimetus": "Käsnad lõhnatu",
+    "hind_km_ta": 12.79,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100853",
+    "nimetus": "Märkmik punane",
+    "hind_km_ta": 1.19,
+    "laoseis": 214,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101793",
+    "nimetus": "Akutrell 100 tk",
+    "hind_km_ta": 131.95,
+    "laoseis": 110,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101682",
+    "nimetus": "Eesti-inglise sõnaraamat 2. trükk",
+    "hind_km_ta": 25.29,
+    "laoseis": 38,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103733",
+    "nimetus": "Viinerid 500 g",
+    "hind_km_ta": 1.95,
+    "laoseis": 220,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103504",
+    "nimetus": "Klaviatuur 2025",
+    "hind_km_ta": 780.19,
+    "laoseis": 83,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102995",
+    "nimetus": "USB-mälupulk must",
+    "hind_km_ta": 19.19,
+    "laoseis": 284,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102666",
+    "nimetus": "Hapukurk 400 g",
+    "hind_km_ta": 1.99,
+    "laoseis": 355,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102905",
+    "nimetus": "Küpsised peremaht",
+    "hind_km_ta": 9.49,
+    "laoseis": 291,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103181",
+    "nimetus": "Fooliumirull säästupakk",
+    "hind_km_ta": 9.49,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103537",
+    "nimetus": "Röster Mini",
+    "hind_km_ta": 684.19,
+    "laoseis": 282,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102635",
+    "nimetus": "Päevaleht mai",
+    "hind_km_ta": 1.19,
+    "laoseis": 156,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101114",
+    "nimetus": "Hakkliha mahe",
+    "hind_km_ta": 5.99,
+    "laoseis": 104,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103620",
+    "nimetus": "Joonlaud A4",
+    "hind_km_ta": 0.19,
+    "laoseis": 220,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100700",
+    "nimetus": "Mineraalvesi 500 g",
+    "hind_km_ta": 6.95,
+    "laoseis": 53,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102103",
+    "nimetus": "Piim peremaht",
+    "hind_km_ta": 6.95,
+    "laoseis": 455,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103005",
+    "nimetus": "Arvutiajakiri juuni",
+    "hind_km_ta": 4.95,
+    "laoseis": 105,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101218",
+    "nimetus": "Viinerid peremaht",
+    "hind_km_ta": 12.19,
+    "laoseis": 397,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102593",
+    "nimetus": "Mineraalvesi 200 g",
+    "hind_km_ta": 4.95,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103389",
+    "nimetus": "Haamer suur",
+    "hind_km_ta": 6.19,
+    "laoseis": 70,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100023",
+    "nimetus": "Marker ruuduline",
+    "hind_km_ta": 21.95,
+    "laoseis": 417,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101490",
+    "nimetus": "Paberipakk A4 A5",
+    "hind_km_ta": 14.79,
+    "laoseis": 202,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101088",
+    "nimetus": "Kleepmärkmed punane",
+    "hind_km_ta": 0.29,
+    "laoseis": 263,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102948",
+    "nimetus": "Kirjaklambrid 10 tk",
+    "hind_km_ta": 39.19,
+    "laoseis": 395,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100696",
+    "nimetus": "Küpsised 400 g",
+    "hind_km_ta": 1.99,
+    "laoseis": 271,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102662",
+    "nimetus": "Sidemerull digitaalne",
+    "hind_km_ta": 10.29,
+    "laoseis": 304,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-103036",
+    "nimetus": "Kirjaklambrid kooli",
+    "hind_km_ta": 0.79,
+    "laoseis": 292,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100020",
+    "nimetus": "Tangid hobi",
+    "hind_km_ta": 30.19,
+    "laoseis": 253,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100033",
+    "nimetus": "Juust light",
+    "hind_km_ta": 5.99,
+    "laoseis": 36,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103895",
+    "nimetus": "Aiavoolik 18 V",
+    "hind_km_ta": 27.49,
+    "laoseis": 240,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103678",
+    "nimetus": "Reha 100 tk",
+    "hind_km_ta": 17.49,
+    "laoseis": 280,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103046",
+    "nimetus": "Köharohi 100 ml",
+    "hind_km_ta": 1.95,
+    "laoseis": 462,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100856",
+    "nimetus": "Mineraalvesi mahe",
+    "hind_km_ta": 7.29,
+    "laoseis": 413,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103280",
+    "nimetus": "Sinep 0,5 l",
+    "hind_km_ta": 3.99,
+    "laoseis": 102,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102959",
+    "nimetus": "Tee light",
+    "hind_km_ta": 11.95,
+    "laoseis": 37,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103672",
+    "nimetus": "Arvutiajakiri jaanuar",
+    "hind_km_ta": 1.95,
+    "laoseis": 253,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102139",
+    "nimetus": "Kanafilee 400 g",
+    "hind_km_ta": 12.29,
+    "laoseis": 170,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102548",
+    "nimetus": "Mesi 400 g",
+    "hind_km_ta": 3.79,
+    "laoseis": 319,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100943",
+    "nimetus": "Piim 1 kg",
+    "hind_km_ta": 1.95,
+    "laoseis": 221,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102832",
+    "nimetus": "Piim light",
+    "hind_km_ta": 2.99,
+    "laoseis": 8,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103879",
+    "nimetus": "Töökindad professional",
+    "hind_km_ta": 32.49,
+    "laoseis": 190,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103293",
+    "nimetus": "Reisijuht II osa",
+    "hind_km_ta": 4.29,
+    "laoseis": 168,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101974",
+    "nimetus": "T-särk XL",
+    "hind_km_ta": 92.49,
+    "laoseis": 206,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102367",
+    "nimetus": "Maakonnaleht jaanuar",
+    "hind_km_ta": 3.19,
+    "laoseis": 56,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100610",
+    "nimetus": "Majapidamispaber suur",
+    "hind_km_ta": 3.29,
+    "laoseis": 157,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102505",
+    "nimetus": "Pintsel teleskoopvarrega",
+    "hind_km_ta": 15.95,
+    "laoseis": 342,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103918",
+    "nimetus": "Sai 400 g",
+    "hind_km_ta": 2.49,
+    "laoseis": 347,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101095",
+    "nimetus": "Kleepmärkmed ruuduline",
+    "hind_km_ta": 8.19,
+    "laoseis": 196,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100281",
+    "nimetus": "Haamer professional",
+    "hind_km_ta": 169.29,
+    "laoseis": 151,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102623",
+    "nimetus": "Muruniiduk hobi",
+    "hind_km_ta": 88.95,
+    "laoseis": 275,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102816",
+    "nimetus": "Patareid AA tundlikule nahale",
+    "hind_km_ta": 4.49,
+    "laoseis": 399,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102207",
+    "nimetus": "Küünlad säästupakk",
+    "hind_km_ta": 3.49,
+    "laoseis": 135,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102133",
+    "nimetus": "Kartulikrõpsud 1 kg",
+    "hind_km_ta": 2.49,
+    "laoseis": 243,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102045",
+    "nimetus": "Lumelabidas 18 V",
+    "hind_km_ta": 138.99,
+    "laoseis": 162,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102047",
+    "nimetus": "Mõõdulint 50 tk",
+    "hind_km_ta": 72.95,
+    "laoseis": 480,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102285",
+    "nimetus": "Kummikud S",
+    "hind_km_ta": 49.79,
+    "laoseis": 146,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102313",
+    "nimetus": "Silmatilgad 100 ml",
+    "hind_km_ta": 6.49,
+    "laoseis": 424,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101861",
+    "nimetus": "Matemaatika õpik illustreeritud",
+    "hind_km_ta": 3.95,
+    "laoseis": 130,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-102688",
+    "nimetus": "Moos 500 g",
+    "hind_km_ta": 3.49,
+    "laoseis": 362,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101124",
+    "nimetus": "Ninasprei täiskasvanutele",
+    "hind_km_ta": 3.95,
+    "laoseis": 146,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-101983",
+    "nimetus": "Tatar suitsune",
+    "hind_km_ta": 6.95,
+    "laoseis": 14,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101851",
+    "nimetus": "Röster hõbe",
+    "hind_km_ta": 484.29,
+    "laoseis": 0,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-102897",
+    "nimetus": "Majonees 200 g",
+    "hind_km_ta": 8.49,
+    "laoseis": 10,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101327",
+    "nimetus": "Tossud puuvillane",
+    "hind_km_ta": 144.49,
+    "laoseis": 435,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100968",
+    "nimetus": "Plaastrid 100 ml",
+    "hind_km_ta": 17.79,
+    "laoseis": 252,
+    "km_maar": 9
+  },
+  {
+    "inventari_nr": "INV-100412",
+    "nimetus": "Hakkliha 400 g",
+    "hind_km_ta": 0.19,
+    "laoseis": 127,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103621",
+    "nimetus": "Sai light",
+    "hind_km_ta": 7.95,
+    "laoseis": 349,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103570",
+    "nimetus": "Patareid AA sidruni",
+    "hind_km_ta": 23.29,
+    "laoseis": 281,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-100124",
+    "nimetus": "Jogurt laktoosivaba",
+    "hind_km_ta": 3.19,
+    "laoseis": 281,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-101952",
+    "nimetus": "Küpsised mahe",
+    "hind_km_ta": 0.95,
+    "laoseis": 325,
+    "km_maar": 22
+  },
+  {
+    "inventari_nr": "INV-103350",
+    "nimetus": "Moos peremaht",
+    "hind_km_ta": 4.99,
+    "laoseis": 60,
+    "km_maar": 22
+  }
+]
