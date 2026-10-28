@@ -45,20 +45,29 @@ def salvesta_csv(hinnad: dict[datetime, float], failinimi: str) -> None:
         for aeg, hind in hinnad.items():
             kirjutaja.writerow([f"{aeg:%Y-%m-%d %H:%M}", hind])
 
+def salvesta_faili(faili_nimi: str, data: list) -> None:
+    """Kirjutab listi iga elemendi eraldi reale.
+
+    write() võtab ainult teksti, seega teisendame iga elemendi str()-iga
+    ja liidame reavahetustega üheks tekstiks.
+    """
+    read = [str(element) for element in data]
+    with open(faili_nimi, "w") as f:
+        f.write("\n".join(read) + "\n")
+
 
 def main() -> None:
     hinnad = tanased_hinnad()
     salvesta_csv(hinnad, FAILI_NIMI)
-    print(f"Salvestatud faili {FAILI_NIMI}\n")
-    print(f"{datetime.now(EESTI):%Y-%m-%d} elektrihinnad ({len(hinnad)} intervalli):")
-    for aeg, hind in hinnad.items():
-        print(f"  {aeg:%H:%M}  {hind:7.2f} EUR/MWh")
 
     odavaim = min(hinnad, key=hinnad.get)
+    salvesta_faili("odav.txt", [str(odavaim), hinnad.get(odavaim)])
     kalleim = max(hinnad, key=hinnad.get)
-    print(f"\nOdavaim: {odavaim:%H:%M} {hinnad[odavaim]:.2f} EUR/MWh")
-    print(f"Kalleim: {kalleim:%H:%M} {hinnad[kalleim]:.2f} EUR/MWh")
-
+    salvesta_faili("kallis.txt", [str(kalleim), hinnad.get(kalleim)])
 
 if __name__ == "__main__":
     main()
+    # leia soodne
+    # kirjuta_faili(faili_nimi, soodne_data)
+    # leia kallis
+    # kirjuta failifaili_nimi, kallis_data)
