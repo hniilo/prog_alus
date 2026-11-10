@@ -1,0 +1,5 @@
+tihane,7
+varblane,5
+rohevint,1
+leevike,6
+vares,2
