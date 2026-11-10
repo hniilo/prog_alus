@@ -43,3 +43,36 @@ The Beatles - Let It Be
 Michael Jackson - Thriller
 Queen - A Night at the Opera
 '''
+
+
+def loe_fail(faili_nimi):
+    with open(faili_nimi, encoding="utf-8") as f:
+        for rida in f:
+            if rida.strip():
+                yield [osa.strip() for osa in rida.split(",")]
+
+
+def kysi_kasutaja_sisend(kysimus):
+    return input(f"{kysimus}: ")
+
+
+def tingimuste_kontroll(kogumik, kasutaja_zanr=None, kasutaja_aasta=None):
+    lst = []
+    for pealkiri, zanr, aasta in kogumik:
+        if zanr.lower() == kasutaja_zanr.lower():
+            lst.append((pealkiri, zanr, aasta))
+        if aasta == kasutaja_aasta:
+            lst.append((pealkiri, zanr, aasta))
+
+    return lst
+
+
+def naita_kasutajale(kogumik):
+    print(kogumik)
+
+
+kogumik = loe_fail("kogumik.txt")
+zanr = kysi_kasutaja_sisend("Mis žanri otsid?")
+aasta = kysi_kasutaja_sisend("Mis aastat otsid?")
+filtreeritud_kogumik = tingimuste_kontroll(kogumik, zanr, aasta)
+naita_kasutajale(filtreeritud_kogumik)
