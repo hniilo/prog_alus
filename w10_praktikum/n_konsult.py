@@ -11,7 +11,7 @@ case = 5
 muutujate_list = [a, b, c, d, e, s, t, "Lomp On Loll - Vennaskond"]
 
 def capitalize(algne_string):
-    return algne_string.upper()
+    return algne_string.capitalize()
 
 # String tüüpi muutuja prindi uppercase'ina
 for element in muutujate_list:

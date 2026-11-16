@@ -7,7 +7,7 @@ pair of (mark, full_name), so a tuple of two elements.
 
 And in this exercises we represent students as
 lists of pairs, like:
->>> students = [
+ students = [
     (85, "Susan"),
     (6, "Joshua"),
     (37, "Jeanette")
@@ -22,7 +22,7 @@ and returns a copy of it sorted by mark
 in descending order.
 Such as:
 
->>> sort_by_mark(students)
+ sort_by_mark(students)
 [(85, "Susan"), (37, "Jeanette"), (6, "Joshua")]
 
 '''
@@ -41,10 +41,5 @@ students = [
 ]
 print(sort_by_mark(students))
 print(sort_by_name(students))
-
-
-
-def sorted(lst, key, reverse):
-    pass
 
 

@@ -15,3 +15,4 @@ b = lambda jaakOnPaak: jaakOnPaak ** 0.5
 
 print(a(9))
 print(b(9))
+print("lambda näide", (lambda x : x ** 0.5)(9))
