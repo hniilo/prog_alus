@@ -2,7 +2,7 @@
 
 ## Taust
 
-Väikepoe laoarvestuse süsteemist on eksporditud fail [`tooted.csv`](tooted.csv), milles on
+Väikepoe laoarvestuse süsteemist on eksporditud fail [`data/tooted.csv`](data/tooted.csv), milles on
 1000 toodet. Hinnad ja käibemaksumäärad on **2025. aasta I poolaasta** seisuga.
 
 1. juulil 2025 tõusis Eestis käibemaksu üldmäär **22% → 24%**. Vähendatud määr 9%
@@ -27,7 +27,7 @@ INV-100989;Lasteajakiri mai;8.95;153;9
 | `laoseis` | mitu tükki on laos | `int` |
 | `km_maar` | käibemaksumäär protsentides | `int` |
 
-Samad andmed on ka JSON-failis [`tooted.json`](tooted.json), objektide massiivina.
+Samad andmed on ka JSON-failis [`data/tooted.json`](data/tooted.json), objektide massiivina.
 Erinevalt CSV-st on seal arvud juba arvud, mitte tekst:
 
 ```json
@@ -104,7 +104,7 @@ Käivita testid käsurealt: `pytest -v`
 - Kirjuta funktsioon `otsi(tooted, sona)`, mis leiab kõik tooted, mille nimetuses sõna esineb,
   sõltumata suurtest ja väikestest tähtedest. Mitu toodet leiab sõna `piim`?
 - Prindi iga käibemaksumäära kohta lao väärtus käibemaksuga.
-- Kirjuta funktsioon `loe_tooted_json(failinimi)`, mis loeb samad tooted failist `tooted.json`
+- Kirjuta funktsioon `loe_tooted_json(failinimi)`, mis loeb samad tooted failist `data/tooted.json`
   (*vihje:* `json.load`). Kas tüüpe on vaja teisendada? Lisa test, mis kontrollib, et
   `loe_tooted("tooted.csv") == loe_tooted_json("tooted.json")`.
 - Mis juhtub, kui CSV-failis on tühi rida või hinna asemel tekst `"puudub"`?
